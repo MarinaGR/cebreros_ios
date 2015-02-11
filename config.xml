@@ -2,7 +2,7 @@
 <widget xmlns = "http://www.w3.org/ns/widgets"
 		xmlns:gap   = "http://phonegap.com/ns/1.0"
 		id          = "com.ovnyline.aytocebreros"
-		version     = "1.0.0" >
+		version     = "1.0.1" >
 
     <name>Ayuntamiento de Cebreros</name>
 
@@ -42,9 +42,6 @@
     <preference name="auto-hide-splash-screen"    value="true" />           <!-- ios: if set to false, the splash screen must be hidden using a JavaScript API -->
     <preference name="disable-cursor"             value="false" />          <!-- blackberry: prevents a mouse-icon/cursor from being displayed on the app -->
 	<preference name="EnableViewportScale" value="true" />
-	
-	<!--<preference name="android-targetSdkVersion"	  value="14" />-->				
-	<!-- android: TARGET SDK version, designating the API Level that the application targets. If not set, the default value equals that given to minSdkVersion. ¿Nivel con el que se ha probado? -->
 	
     <preference name="android-minSdkVersion"      value="14" />             <!-- android: MIN SDK version supported on the target device. MAX version is blank by default. -->
     <preference name="android-installLocation"    value="auto" />           <!-- android: app install location. 'auto' will choose. 'internalOnly' is device memory. 'preferExternal' is SDCard. -->
