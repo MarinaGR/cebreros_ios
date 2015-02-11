@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>AYUNTAMIENTO DE CEBREROS</title>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, maximum-scale=1.0, minimum-scale=1.0, initial-scale=1.0, user-scalable=no">
+		<meta name="robots" content="INDEX,FOLLOW">
+		<meta name="description" content="Ayuntamiento de Cebreros.">
+		<meta name="keywords" content="Ayuntamiento de Cebreros, noticias, eventos, turismo, rutas">  
+		<meta name="cache-control" content="no-cache">
+		<meta name="expires" content="0">
+		<link href="./css/estilos.css" rel="stylesheet" type="text/css">	
+		<script src="./js/jquery.js"></script>
+		<script src="./js/jquery_ui.js"></script>
+		<script src="./js/jquery_ui_touchpunch.js"></script>
+		<script src="./js/funciones.js"></script>
+		<script src="./cordova.js"></script>
+		<base target='_blank'/>
+		
+		<script>		
+			document.addEventListener("deviceready", function()  {
+				
+				var id=get_var_url("id");
+				ajax_recover_data('route', id, 'contenido', true, true, 1);
+				document.getElementById("zoom_in").addEventListener("click", function zoomin() {
+					window.location.href="canvas2.html?id="+get_var_url("id");
+				}, false);	
+				
+				document.getElementById("boton_atras").addEventListener("click", function() {
+					window.location.href="mapa.html?id="+ id.substring(1,2);
+				}, false);	
+				
+				document.addEventListener("backbutton", function() {
+					window.location.href="mapa.html?id="+ id.substring(1,2);
+				}, false);
+								
+			});
+
+		</script>
+	</head>
+
+	<body onload="onBodyLoad()">
+	
+		<div class="article_01" id="contenido"> </div>
+		
+		<div class="article_01" id="datos_geo"> </div>
+
+		<div class="contenedor">
+			
+			<div class="nav_02" id="boton_menu"> </div>
+			<div id="boton_salir"></div>
+			<div id="boton_atras"></div>
+			<div class="boton_zoom" id="zoom_in" ></div>
+			<div id="boton_refresh" onclick="show_geoloc()" ></div>
+			<div class="boton_zoom" id="cargando" style="display:none">
+				<img src="./resources/images/general/loading.gif" />
+			</div>
+				
+		</div>			
+		
+	</body>
+</html>

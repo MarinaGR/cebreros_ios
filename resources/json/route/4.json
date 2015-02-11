@@ -1,0 +1,56 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "4",
+        "Title": "RUTA PCR 4  Real del Sur",
+        "Summary": "",
+        "Page": "El camino PCR 4 “Real del Sur” comienza en el camino de Valsordo donde justo antes de abandonar el pueblo nos encontraremos con la Picota o rollo de justicia del siglo XVI, sitio en el cual podemos disfrutar de unas excelentes vistas del Valle del Alberche.<br><br>Este camino discurre en sus primeros kilómetros entre viñas y olivos hasta llegar a la Ermita de Valsordo donde se encuentra la imagen de la Patrona de Cebreros, la Virgen de Valsordo. Bajamos por el Camino Real y llegamos hasta el río Alberche con una excelente vista del Puente romano-medieval de Valsordo. Nos desviaremos a la izquierda por la orilla del río. Antes de desviarnos subiremos río arriba hasta encontrar la Presa Baena, antigua fábrica de luz actualmente en ruinas.<br><br>Volvemos al camino hasta cruzar la carretera y continuaremos por un camino ancho donde las viñas dejan paso a los pinos, para cruzar otra carretera y divisar el cementerio, que bordearemos por detrás para coger un camino señalizado y de dirección al campo de tiro al plato, para llegando a éste desviarnos a la izquierda por una calleja que&nbsp; sin dejarla nos llevará hasta el pueblo.<br><br>Agradecimiento a <a href=\"http://www.losbrajales.es\">http://www.losbrajales.es</a>/<br>",
+        "Image": "http://w3.cebreros.es//public/images/route4imgruta-pcr-4--real-del-sur.jpg",
+        "DatePublish": "2014-12-01",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "22,6 Km.",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "900 m.",
+        "MinAltitude": "750 m.",
+        "Difficulty": "Normal",
+        "Monuments": "Picota, Ermita, Puentes Valsordo",
+        "Panoramics": "Buenas",
+        "CycleReady": "98%",
+        "DownloadGPX": "route4gpxruta-pcr-4--real-del-sur.gpx",
+        "DownloadKML": null,
+        "DownloadPDF": "route4pdfruta-pcr-4--real-del-sur.pdf",
+        "WikilocLink": "http://es.wikiloc.com/wikiloc/view.do?id=6575027",
+        "Embed": "<iframe frameBorder=\"0\" src=\"http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=6575027&measures=off&title=off&near=off&images=off&maptype=S\" width=\"500\" height=\"400\"></iframe>",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route4imgruta-pcr-4--real-del-sur.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr-4--real-del-sur",
+        "Total": 3,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes4-img9-pcr-4.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes4-img9-pcr-4.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 4"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes4-img10-pcr-4_2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes4-img10-pcr-4_2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 4_2"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes4-img11-la-picota_pcr-4_2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes4-img11-la-picota_pcr-4_2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/La picota_pcr 4_2"
+            }
+        ]
+    }
+}

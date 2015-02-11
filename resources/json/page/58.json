@@ -1,0 +1,69 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "La fiesta de la Vendimia",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>En el año 2000 tuvo lugar en Cebreros la I Fiesta de la Vendimia. La creación de esta fiesta se concibió como defensa de la tan importante tradición vitivinícola de Cebreros y la calidad de sus vinos, poniendo en valor la difusión y el conocimiento a las generaciones más jóvenes, del proceso de corta y pisa de la uva, a la vez que se defiende la histórica labor agrícola de la vid a las actuales elaboraciones. <br><br>La fiesta se celebra a mediados del mes de septiembre, coincidiendo&nbsp; con el inicio de la vendimia de la uva tinta, momento en el que las vides gozan de su mayor expresión. Durante el fin de semana de celebración tienen&nbsp; lugar los actos centrales,&nbsp; el concurso de corta y pisa en el que participan desde niños, niñas, jóvenes y hombres y mujeres de todas las edades por parejas. Comenzando con la corta de la uva en una viña de la localidad para posteriormente pisarlas y obtener el primer mosto de la temporada. Así mismo en el marco de la fiesta, se desarrolla una cata de vinos y charlas por parte de bodegas y enólogos.<br><br></p><h3>Más información</h3>Consulta la <a href=\"http://agenda\"><b>agenda de eventos</b></a> de la web para conocer la programación detallada.<br><p></p>",
+            "Image": "public/thumbnails/page58-img-la-fiesta-de-la-vendimia.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "",
+            "Permalink": "http://www.cebreros.es/turismo/fiestas-y-gastronomia/la-fiesta-de-la-vendimia"
+        },
+        "TotalImages": 5,
+        "Images": [
+            {
+                "ID": "60",
+                "IDFather": "58",
+                "Image": "cats58-img60-pisa-uvas-1.jpg",
+                "Description": "Pisa uvas 1",
+                "Level": "0",
+                "Orden": "60"
+            },
+            {
+                "ID": "61",
+                "IDFather": "58",
+                "Image": "cats58-img61-pisa-uvas-2.jpg",
+                "Description": "Pisa uvas 2",
+                "Level": "0",
+                "Orden": "61"
+            },
+            {
+                "ID": "62",
+                "IDFather": "58",
+                "Image": "cats58-img62-pisa-uvas-4.jpg",
+                "Description": "Pisa uvas 4",
+                "Level": "0",
+                "Orden": "62"
+            },
+            {
+                "ID": "63",
+                "IDFather": "58",
+                "Image": "cats58-img63-pisa-uvas-5.jpg",
+                "Description": "Pisa uvas 5",
+                "Level": "0",
+                "Orden": "63"
+            },
+            {
+                "ID": "64",
+                "IDFather": "58",
+                "Image": "cats58-img64-pisa-uvas-3.jpg",
+                "Description": "Pisa uvas 3",
+                "Level": "0",
+                "Orden": "64"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

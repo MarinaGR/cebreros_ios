@@ -1,0 +1,2180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.12.4" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2009-12-04T09:08:26Z</time>
+    <bounds maxlat="40.4715169" maxlon="-4.4646590" minlat="40.4395683" minlon="-4.5215901"/>
+  </metadata>
+
+  <wpt lat="40.4551546" lon="-4.4651929">
+    <ele>757.8085938</ele>
+    <time>2009-10-22T11:15:51Z</time>
+    <name>001</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4556397" lon="-4.4660901">
+    <ele>761.8828125</ele>
+    <time>2009-10-22T11:15:52Z</time>
+    <name>002</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4528549" lon="-4.4708359">
+    <ele>755.7109375</ele>
+    <time>2009-10-22T11:16:03Z</time>
+    <name>003</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4500250" lon="-4.4758063">
+    <ele>747.9960938</ele>
+    <time>2009-10-22T11:16:39Z</time>
+    <name>004</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4494501" lon="-4.4759951">
+    <ele>751.4335938</ele>
+    <time>2009-10-22T11:16:40Z</time>
+    <name>005</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4491447" lon="-4.4763021">
+    <ele>755.1210938</ele>
+    <time>2009-10-22T11:16:40Z</time>
+    <name>006</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4487853" lon="-4.4765382">
+    <ele>754.2031250</ele>
+    <time>2009-10-22T11:16:41Z</time>
+    <name>007</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4463596" lon="-4.4883432">
+    <ele>814.0468750</ele>
+    <time>2009-10-22T11:20:38Z</time>
+    <name>008</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4455242" lon="-4.4895825">
+    <ele>808.6132813</ele>
+    <time>2009-10-22T11:20:40Z</time>
+    <name>009</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4447427" lon="-4.4911052">
+    <ele>815.0976563</ele>
+    <time>2009-10-22T11:20:41Z</time>
+    <name>010</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4395683" lon="-4.5157148">
+    <ele>994.7695313</ele>
+    <time>2009-10-22T11:22:52Z</time>
+    <name>011</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4401341" lon="-4.5166000">
+    <ele>1006.3242188</ele>
+    <time>2009-10-22T11:22:53Z</time>
+    <name>012</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4408079" lon="-4.5166000">
+    <ele>1027.8203125</ele>
+    <time>2009-10-22T11:22:54Z</time>
+    <name>013</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4415086" lon="-4.5165292">
+    <ele>1048.1562500</ele>
+    <time>2009-10-22T11:22:55Z</time>
+    <name>014</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4537032" lon="-4.5176800">
+    <ele>1282.9375000</ele>
+    <time>2009-10-22T11:24:04Z</time>
+    <name>015</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4545656" lon="-4.5199465">
+    <ele>1256.3710938</ele>
+    <time>2009-10-22T11:24:20Z</time>
+    <name>016</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4565735" lon="-4.5209915">
+    <ele>1250.8125000</ele>
+    <time>2009-10-22T11:25:42Z</time>
+    <name>017</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4584869" lon="-4.5213458">
+    <ele>1232.7109375</ele>
+    <time>2009-10-22T11:25:44Z</time>
+    <name>018</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4596187" lon="-4.5213811">
+    <ele>1226.9687500</ele>
+    <time>2009-10-22T11:25:45Z</time>
+    <name>019</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4613974" lon="-4.4923691">
+    <ele>1093.2460938</ele>
+    <time>2009-10-22T11:36:05Z</time>
+    <name>020</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4615052" lon="-4.4864182">
+    <ele>1068.6054688</ele>
+    <time>2009-10-22T11:36:31Z</time>
+    <name>021</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4604003" lon="-4.4853201">
+    <ele>1028.6289063</ele>
+    <time>2009-10-22T11:36:33Z</time>
+    <name>022</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4590934" lon="-4.4837083">
+    <ele>990.4960938</ele>
+    <time>2009-10-22T11:37:03Z</time>
+    <name>023</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4587969" lon="-4.4792458">
+    <ele>933.0273438</ele>
+    <time>2009-10-22T11:37:24Z</time>
+    <name>024</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4590395" lon="-4.4766604">
+    <ele>895.3710938</ele>
+    <time>2009-10-22T11:37:34Z</time>
+    <name>025</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4472909" lon="-4.4797482">
+    <ele>758.0000000</ele>
+    <time>2009-10-22T11:17:20Z</time>
+    <name>CAÑADA REAL</name>
+    <cmt>Camino</cmt>
+    <desc>Camino</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4679344" lon="-4.5112695">
+    <ele>1202.0000000</ele>
+    <time>2009-10-22T11:28:04Z</time>
+    <name>CASA DEL VAQUERO</name>
+    <cmt>Camino</cmt>
+    <desc>Camino</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4551543" lon="-4.4646590">
+    <ele>758.0000000</ele>
+    <time>2009-10-22T11:14:24Z</time>
+    <name>Comienzo PRC-AV2</name>
+    <cmt>Carretera Autonomica 3º</cmt>
+    <desc>Carretera Autonomica 3º</desc>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4611049" lon="-4.5215901">
+    <ele>1215.0000000</ele>
+    <time>2009-10-22T11:26:21Z</time>
+    <name>DEHESA ALBACOA</name>
+    <cmt>Sendero</cmt>
+    <desc>Sendero</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4553360" lon="-4.5205901">
+    <ele>1260.0000000</ele>
+    <time>2009-10-22T11:24:45Z</time>
+    <name>EL PORTEZUELO</name>
+    <cmt>1260 m</cmt>
+    <desc>1260 m</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4575113" lon="-4.4659326">
+    <ele>777.0000000</ele>
+    <time>2009-10-22T11:38:37Z</time>
+    <name>FIN DEL CAMINO PRC-AV2</name>
+    <cmt>Av-504</cmt>
+    <desc>Av-504</desc>
+    <sym>Flag, Green</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4600908" lon="-4.4967485">
+    <ele>1120.0000000</ele>
+    <time>2009-10-22T11:44:08Z</time>
+    <name>FUENTE</name>
+    <cmt>1120 m</cmt>
+    <desc>1120 m</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4612046" lon="-4.5208569">
+    <ele>1211.0000000</ele>
+    <time>2009-10-22T11:29:00Z</time>
+    <name>FUENTE LA ZARZA</name>
+    <cmt>Arroyo de Los Pajares</cmt>
+    <desc>Arroyo de Los Pajares</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4715169" lon="-4.4998616">
+    <ele>1136.0000000</ele>
+    <time>2009-10-22T11:30:23Z</time>
+    <name>FuentedelaLast1</name>
+    <cmt>FuentedelaLastr</cmt>
+    <desc>FuentedelaLastr</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4475403" lon="-4.5150375">
+    <ele>1183.0000000</ele>
+    <time>2009-10-22T11:43:38Z</time>
+    <name>FuentedelaMata</name>
+    <cmt>Fuente de la Mata</cmt>
+    <desc>Fuente de la Mata</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4615889" lon="-4.4939322">
+    <ele>1107.0000000</ele>
+    <time>2009-10-22T11:32:38Z</time>
+    <name>LOS HITOS</name>
+    <cmt>Camino</cmt>
+    <desc>Camino</desc>
+    <sym>Cemetery</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4500723" lon="-4.5112610">
+    <ele>1310.0000000</ele>
+    <time>2009-10-22T11:40:39Z</time>
+    <name>Merina1</name>
+    <cmt>Merina</cmt>
+    <desc>Merina</desc>
+    <sym>Scenic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="40.4616359" lon="-4.4966241">
+    <ele>1108.0000000</ele>
+    <time>2009-10-22T11:46:23Z</time>
+    <name>POZO DE LA NIEVE</name>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <rte>
+    <name>Comienzo PRC-AV2 to Av-504</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+        <gpxx:IsAutoNamed>true</gpxx:IsAutoNamed>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="40.4551543" lon="-4.4646590">
+      <ele>758.0000000</ele>
+      <time>2009-10-22T11:14:24Z</time>
+      <name>Comienzo PRC-AV2</name>
+      <cmt>Carretera Autonomica 3º</cmt>
+      <desc>Carretera Autonomica 3º</desc>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4551546" lon="-4.4651929">
+      <ele>757.8085938</ele>
+      <time>2009-10-22T11:15:51Z</time>
+      <name>001</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4556397" lon="-4.4660901">
+      <ele>761.8828125</ele>
+      <time>2009-10-22T11:15:52Z</time>
+      <name>002</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4547045" lon="-4.4680475">
+      <ele>761.6093750</ele>
+      <time>2009-10-22T11:15:57Z</time>
+      <name>Vial</name>
+      <cmt>Vial</cmt>
+      <desc>Vial</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4ee822d272000180e0070d1cfc008dc49dd2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4541731" lon="-4.4693138">
+      <ele>763.1210938</ele>
+      <time>2009-10-22T11:15:59Z</time>
+      <name>Camino</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000180da070d1cfc0075c462d2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4535330" lon="-4.4699145">
+      <ele>760.0000000</ele>
+      <time>2009-10-22T11:16:01Z</time>
+      <name>760m</name>
+      <cmt>760 m</cmt>
+      <desc>760 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000200ff070d1cfc0057c446d2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4528549" lon="-4.4708359">
+      <ele>755.7109375</ele>
+      <time>2009-10-22T11:16:03Z</time>
+      <name>003</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4521880" lon="-4.4718019">
+      <ele>760.0000000</ele>
+      <time>2009-10-22T11:16:04Z</time>
+      <name>760m1</name>
+      <cmt>760 m</cmt>
+      <desc>760 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000200ff070d1cfc0018c4eed1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4522395" lon="-4.4727445">
+      <ele>763.2109375</ele>
+      <time>2009-10-22T11:16:06Z</time>
+      <name>ViñaDelBurgo</name>
+      <cmt>Viña Del Burgo</cmt>
+      <desc>Viña Del Burgo</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>16b122d272000180d7071200000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4521108" lon="-4.4739054">
+      <ele>760.0000000</ele>
+      <time>2009-10-22T11:16:10Z</time>
+      <name>760m2</name>
+      <cmt>760 m</cmt>
+      <desc>760 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000200ff070d1cfc0015c48cd1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4515377" lon="-4.4741872">
+      <ele>740.0000000</ele>
+      <time>2009-10-22T11:16:13Z</time>
+      <name>740m</name>
+      <cmt>740 m</cmt>
+      <desc>740 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000200d2070d1cfc00fac37fd1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4510427" lon="-4.4745187">
+      <ele>725.6015625</ele>
+      <time>2009-10-22T11:16:15Z</time>
+      <name>Av-512</name>
+      <cmt>Av-512</cmt>
+      <desc>Av-512</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>110022d27200040010080d1cfc00e3c370d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4509117" lon="-4.4750171">
+      <ele>724.3164063</ele>
+      <time>2009-10-22T11:16:17Z</time>
+      <name>ArroyodeLosGala</name>
+      <cmt>Arroyo de Los Galayos</cmt>
+      <desc>Arroyo de Los Galayos</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4ed822d272000880fb070d1cfc00ddc359d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4506404" lon="-4.4755402">
+      <ele>740.0000000</ele>
+      <time>2009-10-22T11:16:38Z</time>
+      <name>740m1</name>
+      <cmt>740 m</cmt>
+      <desc>740 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000200d2070d1cfc00d0c340d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4500250" lon="-4.4758063">
+      <ele>747.9960938</ele>
+      <time>2009-10-22T11:16:39Z</time>
+      <name>004</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4494501" lon="-4.4759951">
+      <ele>751.4335938</ele>
+      <time>2009-10-22T11:16:40Z</time>
+      <name>005</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4491447" lon="-4.4763021">
+      <ele>755.1210938</ele>
+      <time>2009-10-22T11:16:40Z</time>
+      <name>006</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4487853" lon="-4.4765382">
+      <ele>754.2031250</ele>
+      <time>2009-10-22T11:16:41Z</time>
+      <name>007</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4482913" lon="-4.4771285">
+      <ele>752.2031250</ele>
+      <time>2009-10-22T11:16:41Z</time>
+      <name>Camino1</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000180d4070d1cfc0063c3f6d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4480226" lon="-4.4779013">
+      <ele>752.3867188</ele>
+      <time>2009-10-22T11:16:43Z</time>
+      <name>Camino2</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000180d4070d1cfc0056c3d2d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4474426" lon="-4.4789517">
+      <ele>752.4101563</ele>
+      <time>2009-10-22T11:16:44Z</time>
+      <name>Camino3</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000180d4070d1cfc003bc3a1d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4472909" lon="-4.4797482">
+      <ele>758.0351563</ele>
+      <time>2009-10-22T11:17:07Z</time>
+      <name>Camino4</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000180d4070d1cfc0034c37cd0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4470643" lon="-4.4808600">
+      <ele>761.2421875</ele>
+      <time>2009-10-22T11:18:05Z</time>
+      <name>Camino5</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc0029c348d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4467718" lon="-4.4819915">
+      <ele>765.3906250</ele>
+      <time>2009-10-22T11:18:06Z</time>
+      <name>Camino6</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc001cc314d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4467675" lon="-4.4830076">
+      <ele>769.9179688</ele>
+      <time>2009-10-22T11:18:07Z</time>
+      <name>Camino7</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc001bc3e4cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4464071" lon="-4.4844910">
+      <ele>779.5546875</ele>
+      <time>2009-10-22T11:18:09Z</time>
+      <name>Camino8</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc000bc39fcf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4463192" lon="-4.4851076">
+      <ele>782.7773438</ele>
+      <time>2009-10-22T11:18:10Z</time>
+      <name>Camino9</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc0007c382cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4453969" lon="-4.4861466">
+      <ele>786.5703125</ele>
+      <time>2009-10-22T11:18:11Z</time>
+      <name>Camino10</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc00dcc252cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4457378" lon="-4.4870782">
+      <ele>793.0507813</ele>
+      <time>2009-10-22T11:18:45Z</time>
+      <name>Camino11</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001800f080d1cfc00ecc227cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4463596" lon="-4.4883432">
+      <ele>814.0468750</ele>
+      <time>2009-10-22T11:20:38Z</time>
+      <name>008</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4455242" lon="-4.4895825">
+      <ele>808.6132813</ele>
+      <time>2009-10-22T11:20:40Z</time>
+      <name>009</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4447427" lon="-4.4911052">
+      <ele>815.0976563</ele>
+      <time>2009-10-22T11:20:41Z</time>
+      <name>010</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4447442" lon="-4.4922723">
+      <ele>813.4531250</ele>
+      <time>2009-10-22T11:20:42Z</time>
+      <name>ArroyoDelTejar</name>
+      <cmt>Arroyo Del Tejar</cmt>
+      <desc>Arroyo Del Tejar</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4ed822d272000c8010080d1cfc00bdc234ce</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4441798" lon="-4.4926745">
+      <ele>820.0000000</ele>
+      <time>2009-10-22T11:20:49Z</time>
+      <name>820m</name>
+      <cmt>820 m</cmt>
+      <desc>820 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000800d2070d1cfc00a3c222ce</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4433954" lon="-4.4931927">
+      <ele>820.0000000</ele>
+      <time>2009-10-22T11:20:50Z</time>
+      <name>820m1</name>
+      <cmt>820 m</cmt>
+      <desc>820 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000800d2070d1cfc007ec20ace</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4422108" lon="-4.4945795">
+      <ele>840.0000000</ele>
+      <time>2009-10-22T11:20:52Z</time>
+      <name>840m</name>
+      <cmt>840 m</cmt>
+      <desc>840 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200020004080d1cfc0047c2c9cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4413374" lon="-4.4958079">
+      <ele>840.0000000</ele>
+      <time>2009-10-22T11:21:01Z</time>
+      <name>840m1</name>
+      <cmt>840 m</cmt>
+      <desc>840 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200020004080d1cfc001ec290cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4418385" lon="-4.4970798">
+      <ele>840.0000000</ele>
+      <time>2009-10-22T11:21:03Z</time>
+      <name>840m2</name>
+      <cmt>840 m</cmt>
+      <desc>840 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200020004080d1cfc0036c254cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4425329" lon="-4.4974083">
+      <ele>846.1445313</ele>
+      <time>2009-10-22T11:21:05Z</time>
+      <name>ArroyodelaCaser</name>
+      <cmt>Arroyo de la Caseruela</cmt>
+      <desc>Arroyo de la Caseruela</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4ed822d27200018011080d1cfc0056c245cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4421288" lon="-4.4984010">
+      <ele>860.0000000</ele>
+      <time>2009-10-22T11:21:08Z</time>
+      <name>860m</name>
+      <cmt>860 m</cmt>
+      <desc>860 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200060004080d1cfc0043c217cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4412163" lon="-4.4993235">
+      <ele>860.0000000</ele>
+      <time>2009-10-22T11:21:09Z</time>
+      <name>860m1</name>
+      <cmt>860 m</cmt>
+      <desc>860 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200060004080d1cfc0019c2eccc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4406193" lon="-4.5003829">
+      <ele>880.0000000</ele>
+      <time>2009-10-22T11:21:10Z</time>
+      <name>880m</name>
+      <cmt>880 m</cmt>
+      <desc>880 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200040004080d1cfc00fdc1bacc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4403949" lon="-4.5018346">
+      <ele>900.0000000</ele>
+      <time>2009-10-22T11:21:12Z</time>
+      <name>900m</name>
+      <cmt>900 m</cmt>
+      <desc>900 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200020017080d1cfc00f3c177cc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4406738" lon="-4.5032157">
+      <ele>900.0000000</ele>
+      <time>2009-10-22T11:21:13Z</time>
+      <name>900m1</name>
+      <cmt>900 m</cmt>
+      <desc>900 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200020017080d1cfc0000c236cc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4404318" lon="-4.5046327">
+      <ele>900.0000000</ele>
+      <time>2009-10-22T11:21:14Z</time>
+      <name>900m2</name>
+      <cmt>900 m</cmt>
+      <desc>900 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200020017080d1cfc00f4c1f4cb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4401702" lon="-4.5063251">
+      <ele>900.0000000</ele>
+      <time>2009-10-22T11:21:15Z</time>
+      <name>900m3</name>
+      <cmt>900 m</cmt>
+      <desc>900 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200020017080d1cfc00e8c1a6cb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4404373" lon="-4.5070737">
+      <ele>900.0000000</ele>
+      <time>2009-10-22T11:21:16Z</time>
+      <name>900m4</name>
+      <cmt>900 m</cmt>
+      <desc>900 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200020017080d1cfc00f4c183cb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4412918" lon="-4.5072502">
+      <ele>918.8046875</ele>
+      <time>2009-10-22T11:21:17Z</time>
+      <name>ArroyodelaMovid</name>
+      <cmt>Arroyo de la Movida</cmt>
+      <desc>Arroyo de la Movida</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4ed822d2720004800f080d1cfc001cc27acb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4407837" lon="-4.5091324">
+      <ele>920.0000000</ele>
+      <time>2009-10-22T11:21:18Z</time>
+      <name>920m</name>
+      <cmt>920 m</cmt>
+      <desc>920 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200040017080d1cfc0005c223cb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4401697" lon="-4.5099896">
+      <ele>920.0000000</ele>
+      <time>2009-10-22T11:21:20Z</time>
+      <name>920m1</name>
+      <cmt>920 m</cmt>
+      <desc>920 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200040017080d1cfc00e8c1fbca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4395952" lon="-4.5107224">
+      <ele>920.0000000</ele>
+      <time>2009-10-22T11:21:39Z</time>
+      <name>920m2</name>
+      <cmt>920 m</cmt>
+      <desc>920 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200040017080d1cfc00cdc1d9ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4396135" lon="-4.5120393">
+      <ele>960.0000000</ele>
+      <time>2009-10-22T11:22:50Z</time>
+      <name>960m</name>
+      <cmt>960 m</cmt>
+      <desc>960 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200080017080d1cfc00cec19bca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4398711" lon="-4.5140198">
+      <ele>980.0000000</ele>
+      <time>2009-10-22T11:22:51Z</time>
+      <name>980m</name>
+      <cmt>980 m</cmt>
+      <desc>980 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000a0017080d1cfc00dac13fca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4395683" lon="-4.5157148">
+      <ele>994.7695313</ele>
+      <time>2009-10-22T11:22:52Z</time>
+      <name>011</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4401341" lon="-4.5166000">
+      <ele>1006.3242188</ele>
+      <time>2009-10-22T11:22:53Z</time>
+      <name>012</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4408079" lon="-4.5166000">
+      <ele>1027.8203125</ele>
+      <time>2009-10-22T11:22:54Z</time>
+      <name>013</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4415086" lon="-4.5165292">
+      <ele>1048.1562500</ele>
+      <time>2009-10-22T11:22:55Z</time>
+      <name>014</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4423940" lon="-4.5165905">
+      <ele>1040.0000000</ele>
+      <time>2009-10-22T11:23:00Z</time>
+      <name>1040m</name>
+      <cmt>1040 m</cmt>
+      <desc>1040 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200100017080d1cfc0050c2c7c9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4432988" lon="-4.5153140">
+      <ele>1080.0000000</ele>
+      <time>2009-10-22T11:23:01Z</time>
+      <name>1080m</name>
+      <cmt>1080 m</cmt>
+      <desc>1080 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200140017080d1cfc007ac203ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4439467" lon="-4.5146218">
+      <ele>1100.0000000</ele>
+      <time>2009-10-22T11:23:15Z</time>
+      <name>1100m</name>
+      <cmt>1100 m</cmt>
+      <desc>1100 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200160017080d1cfc0098c223ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4451544" lon="-4.5140479">
+      <ele>1140.0000000</ele>
+      <time>2009-10-22T11:23:16Z</time>
+      <name>1140m</name>
+      <cmt>1140 m</cmt>
+      <desc>1140 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272001a0017080d1cfc00d0c23eca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4467521" lon="-4.5144544">
+      <ele>1180.0000000</ele>
+      <time>2009-10-22T11:23:17Z</time>
+      <name>1180m</name>
+      <cmt>1180 m</cmt>
+      <desc>1180 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272001e0017080d1cfc001bc32bca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4475048" lon="-4.5143080">
+      <ele>1200.0000000</ele>
+      <time>2009-10-22T11:23:18Z</time>
+      <name>1200m</name>
+      <cmt>1200 m</cmt>
+      <desc>1200 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d272001f0017080d1cfc003ec332ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4480440" lon="-4.5130470">
+      <ele>1240.0000000</ele>
+      <time>2009-10-22T11:23:19Z</time>
+      <name>1240m</name>
+      <cmt>1240 m</cmt>
+      <desc>1240 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200010024080d1cfc0057c36cca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4487798" lon="-4.5116663">
+      <ele>1280.0000000</ele>
+      <time>2009-10-22T11:23:20Z</time>
+      <name>1280m</name>
+      <cmt>1280 m</cmt>
+      <desc>1280 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200010015080d1cfc0079c3adca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4500723" lon="-4.5112824">
+      <ele>1312.4101563</ele>
+      <time>2009-10-22T11:23:22Z</time>
+      <name>Merina</name>
+      <cmt>Merina</cmt>
+      <desc>Merina</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>151122d272000b800f081200000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4504653" lon="-4.5127964">
+      <ele>1300.0000000</ele>
+      <time>2009-10-22T11:23:56Z</time>
+      <name>1300m</name>
+      <cmt>1300 m</cmt>
+      <desc>1300 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200010014080d1cfc00c8c378ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4514789" lon="-4.5155660">
+      <ele>1300.0000000</ele>
+      <time>2009-10-22T11:23:57Z</time>
+      <name>1300m1</name>
+      <cmt>1300 m</cmt>
+      <desc>1300 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200010014080d1cfc00f7c3f7c9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4528452" lon="-4.5157359">
+      <ele>1300.0000000</ele>
+      <time>2009-10-22T11:24:03Z</time>
+      <name>1300m2</name>
+      <cmt>1300 m</cmt>
+      <desc>1300 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d27200010014080d1cfc0037c4efc9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4537032" lon="-4.5176800">
+      <ele>1282.9375000</ele>
+      <time>2009-10-22T11:24:04Z</time>
+      <name>015</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4545656" lon="-4.5199465">
+      <ele>1256.3710938</ele>
+      <time>2009-10-22T11:24:20Z</time>
+      <name>016</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4553453" lon="-4.5205931">
+      <ele>1260.0000000</ele>
+      <time>2009-10-22T11:24:22Z</time>
+      <name>1260m</name>
+      <cmt>1260 m</cmt>
+      <desc>1260 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d2720001002c080d1cfc00abc40dc9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4565735" lon="-4.5209915">
+      <ele>1250.8125000</ele>
+      <time>2009-10-22T11:25:42Z</time>
+      <name>017</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4574636" lon="-4.5212039">
+      <ele>1240.0000000</ele>
+      <time>2009-10-22T11:25:43Z</time>
+      <name>1240m1</name>
+      <cmt>1240 m</cmt>
+      <desc>1240 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210021d27200010078080d1cfc000ec5f0c8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4584869" lon="-4.5213458">
+      <ele>1232.7109375</ele>
+      <time>2009-10-22T11:25:44Z</time>
+      <name>018</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4596187" lon="-4.5213811">
+      <ele>1226.9687500</ele>
+      <time>2009-10-22T11:25:45Z</time>
+      <name>019</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4611049" lon="-4.5215901">
+      <ele>1215.0000000</ele>
+      <time>2009-10-22T11:25:46Z</time>
+      <name>Sendero</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5821d27200038055080d1cfc00b8c5dec8</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4621174" lon="-4.5207335">
+      <ele>1099.9296875</ele>
+      <time>2009-10-22T11:27:26Z</time>
+      <name>Camino12</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc00e7c506c9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4627471" lon="-4.5200123">
+      <ele>1211.1601563</ele>
+      <time>2009-10-22T11:27:28Z</time>
+      <name>Camino13</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0004c628c9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4637211" lon="-4.5194849">
+      <ele>1213.8359375</ele>
+      <time>2009-10-22T11:27:29Z</time>
+      <name>Camino14</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0032c640c9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4641656" lon="-4.5185677">
+      <ele>1214.2148438</ele>
+      <time>2009-10-22T11:27:31Z</time>
+      <name>Camino15</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0046c66bc9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4648366" lon="-4.5178594">
+      <ele>1213.1132813</ele>
+      <time>2009-10-22T11:27:43Z</time>
+      <name>Camino16</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0066c68cc9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4655662" lon="-4.5159153">
+      <ele>1204.7031250</ele>
+      <time>2009-10-22T11:27:44Z</time>
+      <name>Camino17</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0088c6e7c9</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4675608" lon="-4.5132549">
+      <ele>1204.3203125</ele>
+      <time>2009-10-22T11:27:45Z</time>
+      <name>Camino18</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc00e5c663ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4680172" lon="-4.5109869">
+      <ele>1202.1093750</ele>
+      <time>2009-10-22T11:27:48Z</time>
+      <name>Camino19</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc00fac6ccca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4680948" lon="-4.5100289">
+      <ele>1200.7695313</ele>
+      <time>2009-10-22T11:27:49Z</time>
+      <name>Camino20</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc00fdc6f9ca</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4688959" lon="-4.5073336">
+      <ele>1184.0117188</ele>
+      <time>2009-10-22T11:27:50Z</time>
+      <name>Camino21</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0023c777cb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4687410" lon="-4.5051050">
+      <ele>1178.5468750</ele>
+      <time>2009-10-22T11:27:52Z</time>
+      <name>Camino22</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc001cc7decb</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4693409" lon="-4.5038713">
+      <ele>1177.1796875</ele>
+      <time>2009-10-22T11:27:54Z</time>
+      <name>Camino23</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200018025080d1cfc0037c718cc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4701694" lon="-4.5030427">
+      <ele>1174.4726563</ele>
+      <time>2009-10-22T11:29:43Z</time>
+      <name>Camino24</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d2720001802d080d1cfc005ec73fcc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4706258" lon="-4.5020598">
+      <ele>1161.5937500</ele>
+      <time>2009-10-22T11:29:45Z</time>
+      <name>CañadaRealLeone</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc0073c76ccc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4713798" lon="-4.4998240">
+      <ele>1138.4570313</ele>
+      <time>2009-10-22T11:30:01Z</time>
+      <name>FuentedelaLastr</name>
+      <cmt>Fuente de la Lastrilla</cmt>
+      <desc>Fuente de la Lastrilla</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>158122d27200018033081200000000000000</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4695600" lon="-4.5004505">
+      <ele>1155.0078125</ele>
+      <time>2009-10-22T11:31:51Z</time>
+      <name>CañadaRealLeon1</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc0042c7b7cc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4681070" lon="-4.4997388">
+      <ele>1145.3437500</ele>
+      <time>2009-10-22T11:31:52Z</time>
+      <name>CañadaRealLeon2</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc00fec6d8cc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4662251" lon="-4.4989075">
+      <ele>1128.6875000</ele>
+      <time>2009-10-22T11:31:53Z</time>
+      <name>CañadaRealLeon3</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc00a6c6ffcc</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4641175" lon="-4.4984717">
+      <ele>1094.8867188</ele>
+      <time>2009-10-22T11:31:55Z</time>
+      <name>CañadaRealLeon4</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc0044c614cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4630694" lon="-4.4978240">
+      <ele>1083.4296875</ele>
+      <time>2009-10-22T11:31:57Z</time>
+      <name>ArroyodeLosPaja</name>
+      <cmt>Arroyo de Los Pajares</cmt>
+      <desc>Arroyo de Los Pajares</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4ed822d272000c804e080d1cfc0013c632cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4624937" lon="-4.4971211">
+      <ele>1092.1796875</ele>
+      <time>2009-10-22T11:32:05Z</time>
+      <name>CañadaRealLeon5</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc00f8c552cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4618294" lon="-4.4946709">
+      <ele>1109.2382813</ele>
+      <time>2009-10-22T11:32:07Z</time>
+      <name>CañadaRealLeon6</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc00d9c5c5cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4615889" lon="-4.4939322">
+      <ele>1106.8789063</ele>
+      <time>2009-10-22T11:32:33Z</time>
+      <name>Camino25</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d27200068004080d1cfc00cec5e7cd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4613009" lon="-4.4934239">
+      <ele>1103.8789063</ele>
+      <time>2009-10-22T11:35:51Z</time>
+      <name>CañadaRealLeon7</name>
+      <cmt>Cañada Real Leonesa Oriental</cmt>
+      <desc>Cañada Real Leonesa Oriental</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e1022d27200088004080d1cfc00c1c5ffcd</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4613974" lon="-4.4923691">
+      <ele>1093.2460938</ele>
+      <time>2009-10-22T11:36:05Z</time>
+      <name>020</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4615548" lon="-4.4914069">
+      <ele>1080.0000000</ele>
+      <time>2009-10-22T11:36:06Z</time>
+      <name>1080m1</name>
+      <cmt>1080 m</cmt>
+      <desc>1080 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200140017080d1cfc00cdc55dce</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4616683" lon="-4.4902075">
+      <ele>1080.0000000</ele>
+      <time>2009-10-22T11:36:07Z</time>
+      <name>1080m2</name>
+      <cmt>1080 m</cmt>
+      <desc>1080 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200140017080d1cfc00d2c595ce</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4614104" lon="-4.4894286">
+      <ele>1080.0000000</ele>
+      <time>2009-10-22T11:36:08Z</time>
+      <name>1080m3</name>
+      <cmt>1080 m</cmt>
+      <desc>1080 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200140017080d1cfc00c6c5b9ce</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4617130" lon="-4.4883993">
+      <ele>1080.0000000</ele>
+      <time>2009-10-22T11:36:09Z</time>
+      <name>1080m4</name>
+      <cmt>1080 m</cmt>
+      <desc>1080 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200140017080d1cfc00d4c5e9ce</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4617748" lon="-4.4872306">
+      <ele>1080.0000000</ele>
+      <time>2009-10-22T11:36:10Z</time>
+      <name>1080m5</name>
+      <cmt>1080 m</cmt>
+      <desc>1080 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200140017080d1cfc00d7c51fcf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4615052" lon="-4.4864182">
+      <ele>1068.6054688</ele>
+      <time>2009-10-22T11:36:31Z</time>
+      <name>021</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4609249" lon="-4.4857181">
+      <ele>1040.0000000</ele>
+      <time>2009-10-22T11:36:32Z</time>
+      <name>1040m1</name>
+      <cmt>1040 m</cmt>
+      <desc>1040 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200100017080d1cfc00afc566cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4604003" lon="-4.4853201">
+      <ele>1028.6289063</ele>
+      <time>2009-10-22T11:36:33Z</time>
+      <name>022</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4599871" lon="-4.4849659">
+      <ele>1020.0000000</ele>
+      <time>2009-10-22T11:36:41Z</time>
+      <name>1020m</name>
+      <cmt>1020 m</cmt>
+      <desc>1020 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000e0017080d1cfc0084c589cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4595242" lon="-4.4840088">
+      <ele>1000.0000000</ele>
+      <time>2009-10-22T11:36:43Z</time>
+      <name>1000m</name>
+      <cmt>1000 m</cmt>
+      <desc>1000 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>220022d272000c0017080d1cfc006ec5b6cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4590934" lon="-4.4837083">
+      <ele>990.4960938</ele>
+      <time>2009-10-22T11:37:03Z</time>
+      <name>023</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4584408" lon="-4.4839209">
+      <ele>960.0000000</ele>
+      <time>2009-10-22T11:37:04Z</time>
+      <name>960m1</name>
+      <cmt>960 m</cmt>
+      <desc>960 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200080017080d1cfc003cc5bacf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4584079" lon="-4.4831065">
+      <ele>957.8750000</ele>
+      <time>2009-10-22T11:37:09Z</time>
+      <name>Av-503</name>
+      <cmt>Av-503</cmt>
+      <desc>Av-503</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>120022d27200210017080d1cfc003ac5e0cf</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4582403" lon="-4.4822230">
+      <ele>940.0000000</ele>
+      <time>2009-10-22T11:37:18Z</time>
+      <name>940m</name>
+      <cmt>940 m</cmt>
+      <desc>940 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200060017080d1cfc0032c509d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4580331" lon="-4.4813001">
+      <ele>920.0000000</ele>
+      <time>2009-10-22T11:37:19Z</time>
+      <name>920m3</name>
+      <cmt>920 m</cmt>
+      <desc>920 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200040017080d1cfc0029c534d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4581452" lon="-4.4798402">
+      <ele>940.0000000</ele>
+      <time>2009-10-22T11:37:19Z</time>
+      <name>940m1</name>
+      <cmt>940 m</cmt>
+      <desc>940 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200060017080d1cfc002ec578d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4587969" lon="-4.4792458">
+      <ele>933.0273438</ele>
+      <time>2009-10-22T11:37:24Z</time>
+      <name>024</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4592815" lon="-4.4783598">
+      <ele>920.0000000</ele>
+      <time>2009-10-22T11:37:27Z</time>
+      <name>920m4</name>
+      <cmt>920 m</cmt>
+      <desc>920 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d27200040017080d1cfc0063c5bdd0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4591989" lon="-4.4774208">
+      <ele>903.5273438</ele>
+      <time>2009-10-22T11:37:28Z</time>
+      <name>Av-5031</name>
+      <cmt>Av-503</cmt>
+      <desc>Av-503</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>120022d27200210017080d1cfc005fc5e9d0</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4590395" lon="-4.4766604">
+      <ele>895.3710938</ele>
+      <time>2009-10-22T11:37:34Z</time>
+      <name>025</name>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>000000000000ffffffffffffffffffffffff</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4586590" lon="-4.4753485">
+      <ele>870.5781250</ele>
+      <time>2009-10-22T11:37:48Z</time>
+      <name>Av-5032</name>
+      <cmt>Av-503</cmt>
+      <desc>Av-503</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>120022d27200210017080d1cfc0046c549d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4586859" lon="-4.4744667">
+      <ele>861.6093750</ele>
+      <time>2009-10-22T11:37:50Z</time>
+      <name>Sendero1</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5822d27200018007080d1cfc0047c572d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4580432" lon="-4.4734368">
+      <ele>844.9257813</ele>
+      <time>2009-10-22T11:37:51Z</time>
+      <name>Sendero2</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5822d27200018007080d1cfc0029c5a2d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4577976" lon="-4.4729424">
+      <ele>833.5351563</ele>
+      <time>2009-10-22T11:37:52Z</time>
+      <name>Sendero3</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5822d27200018007080d1cfc001ec5b9d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4577541" lon="-4.4716668">
+      <ele>820.6992188</ele>
+      <time>2009-10-22T11:38:15Z</time>
+      <name>Sendero4</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5822d27200018007080d1cfc001cc5f5d1</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4580430" lon="-4.4711741">
+      <ele>820.0000000</ele>
+      <time>2009-10-22T11:38:15Z</time>
+      <name>820m2</name>
+      <cmt>820 m</cmt>
+      <desc>820 m</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>210022d272000800d2070d1cfc0029c50cd2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4591219" lon="-4.4712118">
+      <ele>824.2539063</ele>
+      <time>2009-10-22T11:38:17Z</time>
+      <name>Sendero5</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5822d27200018007080d1cfc005bc50ad2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4597282" lon="-4.4707704">
+      <ele>821.0195313</ele>
+      <time>2009-10-22T11:38:20Z</time>
+      <name>Sendero6</name>
+      <cmt>Sendero</cmt>
+      <desc>Sendero</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e5822d27200018007080d1cfc0078c51fd2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4597808" lon="-4.4701824">
+      <ele>811.1679688</ele>
+      <time>2009-10-22T11:38:21Z</time>
+      <name>Camino26</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000180fa070d1cfc007ac53ad2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4584587" lon="-4.4676529">
+      <ele>784.7929688</ele>
+      <time>2009-10-22T11:38:31Z</time>
+      <name>Camino27</name>
+      <cmt>Camino</cmt>
+      <desc>Camino</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>4e0822d272000280fa070d1cfc003cc5b0d2</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="40.4575113" lon="-4.4659326">
+      <ele>776.6953125</ele>
+      <time>2009-10-22T11:38:34Z</time>
+      <name>Av-504</name>
+      <cmt>Av-504</cmt>
+      <desc>Av-504</desc>
+      <sym>Waypoint</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+          <gpxx:Subclass>110022d27200070004080d1cfc0010c500d3</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

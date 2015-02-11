@@ -1,0 +1,53 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "El Centro de Productos de la Tierra",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p style=\"text-align: justify;\">El Centro de Productos de la tierra es en estos momentos un proyecto innovador en ejecución, que pretende abordar un problema detectado en el medio rural en general: la falta de medios de los pequeños productores para comercializar sus productos y para llegar a los turistas que visitan los pueblos y se &nbsp;alojan en los &nbsp;establecimientos de turismo rural existentes. Su objetivo es crear un VIVERO DE EMPRESAS AGROALIMENTARIAS, un espacio preparado para que se instalen los productores locales, de las comarcas cercanas para ofrecer la degustación y la venta de sus productos. De esta manera se crean sinergias entre los productores y se les conecta con los turistas, creando un entorno ideal para que puedan darse a conocer y vender. Como referencia de un espacio de similares características, encontramos el Mercado de San Antón en Madrid, en el barrio de Chueca.</p><p style=\"text-align: justify;\">El edificio está situado en el centro urbano de Cebreros, junto al más importante espacio público del pueblo, la Plaza de España, y entre dos de los edificios principales, la iglesia y el Cabildo, el centro cultural.&nbsp;</p><p style=\"text-align: justify;\">Uno de los principales objetivos del proyecto es la regeneración urbana de la zona sur de la plaza y del entorno de la iglesia, por ello el edificio plantea su entrada principal frente a ella y conecta física y visualmente ambas calles, a la vez que plantea el interior como una pequeña plaza que expande su uso al exterior. Es una actuación que pretende regenerar la escena urbana con su uso y actividades y enriquecerla físicamente, para contribuir a mejorar la vida de los cebrereños y fomentar actividad económica. Los otros objetivos fundamentales del proyecto son conseguir un edificio sostenible con el menor gasto de energía y las menores emisiones posibles, lograr un mantenimiento sencillo en la fase de uso, y potenciar la flexibilidad de los espacios para permitir acoger diferentes tipos de actividades que lo rentabilicen.</p><p><br></p>",
+            "Image": "public/thumbnails/page55-img-el-centro-de-productos-de-la-tierra.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.45463055555556, -4.464591666666667)15",
+            "Permalink": "http://www.cebreros.es/turismo/que-visitar/el-centro-de-productos-de-la-tierra"
+        },
+        "TotalImages": 3,
+        "Images": [
+            {
+                "ID": "77",
+                "IDFather": "55",
+                "Image": "cats55-img77-fachada-noreste.jpg",
+                "Description": "Fachada noreste",
+                "Level": "0",
+                "Orden": "77"
+            },
+            {
+                "ID": "78",
+                "IDFather": "55",
+                "Image": "cats55-img78-maqueta-suroeste.jpg",
+                "Description": "Maqueta suroeste",
+                "Level": "0",
+                "Orden": "78"
+            },
+            {
+                "ID": "79",
+                "IDFather": "55",
+                "Image": "cats55-img79-centro-2.jpg",
+                "Description": "Centro 2",
+                "Level": "0",
+                "Orden": "79"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

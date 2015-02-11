@@ -1,0 +1,37 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "La plaza de España",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>La Plaza España de Cebreros es el centro neurálgico de reunión y disfrute de la villa, de dilatadas dimensiones y actualmente peatonal posee el encanto de sus vistas, tanto hacia la Iglesia de Santiago declarada como bien de interés cultural, como hacia las fachadas históricas de edificios emblemáticos, la casa consistorial e inmuebles aledaños. &nbsp;<br><br>Aunque ha visto como el paso del tiempo la convertían en más contemporánea, dinámica y afín a los momentos actuales, no ha perdido el encanto de su historia y ha conservado parte de algunos de sus elementos principales como los restos de la&nbsp; antigua fuente de cuatro caños.<br><br>Originariamente la fuente de la Plaza de Cebreros, de pilón octogonal tenía dieciséis metros de perímetro que se redujeron a ocho en 1940. En el interior del pilón había cuatro pilares con caños de cabeza de león o dragón en bronce, que también fueron sustituidos por cuatro losas de piedras adheridas al cuerpo central en el siglo XX, formado éste por un pedestal flanqueado con forma circular donde se situaban dos querubines de bronce, rodeados por un adorno de forja de dos lámparas. <br><br>Actualmente de la antigua fuente solo se conservan los querubines en bronce y fueron ubicados en la actual fuente que imita íntegramente a la antigua en las obras realizadas en 2007 cuando se llevaron a cabo las obras para transformarla en peatonal.<br></p>",
+            "Image": "public/thumbnails/page49-img-la-plaza-de-espana.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.45509444444445, -4.464930555555556)15",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/plazas-de-cebreros/la-plaza-de-espana"
+        },
+        "TotalImages": 1,
+        "Images": [
+            {
+                "ID": "72",
+                "IDFather": "49",
+                "Image": "cats49-img72-corporacion.jpg",
+                "Description": "Corporacion",
+                "Level": "0",
+                "Orden": "72"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

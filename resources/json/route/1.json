@@ -1,0 +1,51 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "1",
+        "Title": "RUTA PCR 1 Camino de Rasueros",
+        "Summary": "resumen",
+        "Page": "<p id=\"lipsum\">La ruta pcr1 “Camino de Rasueros “es un camino marcado para disfrutar andando o en bicicleta de tres de los cuatro parajes o ecosistemas más representativos: viñedos, pinares y monte bajo.<br><br>Dicho camino nos va a llevar en su primera y última parte por zonas de viñedo, olivos y dos puentes románicos-medievales en perfecto estado de conservación, el puente de San Marcos y el puente sobre el Becedas, con zonas de estancia a orilla del río Becedas. Este río lo cruzaremos dos veces, la última el paisaje cambia a pinos y jaras.<br><br>Haremos un descanso ya que en el camino nos vamos encontrando suaves toboganes en un principio, para después hacerse duro, pero siempre al abrigo de los pinos. Llegaremos al observatorio, para poder disfrutar de una panorámica de todo el valle.<br><br>Continuaremos el camino con subidas y bajadas hasta que el recorrido se hace llano y volveremos a disfrutar de las viñas cebrereñas hasta llegar al pueblo.<br><br>Agradecimiento a <a href=\"http://www.losbrajales.es\">www.losbrajales.es</a><br><br></p>",
+        "Image": "http://w3.cebreros.es//public/images/route1imgruta-pcr-1-camino-de-rasueros.jpg",
+        "DatePublish": "2014-12-01",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "18,850 Km",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "800 m.",
+        "MinAltitude": "750 m.",
+        "Difficulty": "Media",
+        "Monuments": "Puentes",
+        "Panoramics": "Buenas",
+        "CycleReady": "95%",
+        "DownloadGPX": "route1gpxruta-pcr-1-camino-de-rasueros.gpx",
+        "DownloadKML": "",
+        "DownloadPDF": "route1pdfruta-pcr-1-camino-de-rasueros.pdf",
+        "WikilocLink": "http://es.wikiloc.com/wikiloc/view.do?id=6155280",
+        "Embed": "<iframe frameBorder=\"0\" src=\"http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=6155280&measures=off&title=off&near=off&images=off&maptype=S\" width=\"500\" height=\"400\"></iframe>",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route1imgruta-pcr-1-camino-de-rasueros.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr-1-camino-de-rasueros",
+        "Total": 2,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes1-img4-pcr1-1.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes1-img4-pcr1-1.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr1 1"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes1-img5-pcr1.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes1-img5-pcr1.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr1"
+            }
+        ]
+    }
+}

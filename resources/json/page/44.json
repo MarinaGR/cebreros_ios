@@ -1,0 +1,69 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "Iglesia de Santiago Apóstol",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>La Iglesia de Santiago Apóstol de Cebreros del siglo XVI está declarada como Bien de Interés Cultural por su riqueza arquitectónica y su valor escultórico y artístico.<br>Sabemos que Alonso de Covarrubias fue quien trazó los planos, el arquitecto de la&nbsp; Catedral, el monasterio y el arzobispado de Toledo y a su muerte se queda a cargo de las obras Pedro de Tolosa, primer maestro de la cantería del Monasterio del Escorial. Este hecho hará que la iglesia de Cebreros tenga un estilo prácticamente herreriano.<br>Sus dimensiones son 54 metros de largo por 26 metros de ancho y 22 metros de alto en el interior.<br><br>La portada principal destaca por ser sobria y lisa; a la derecha encontramos la torre campanario y la portada principal, originariamente dedicada a San Roque, pero en la que encontramos en una hornacina sobre pedestal, la escultura de Santiago Apóstol peregrino, colocada en 1659 momento en el que se concluye la iglesia. <br><br>En el interior observamos una gran planta de salón con tres naves en el que destaca, el retablo que es sin duda una de las mayores muestras del arte abulense. Realizado en madera de pino y policromado en pan de oro que cuenta con obras de alto valor artístico, destacando las pinturas de Giuseppe de Leonardo.<br><br></p><h3>Localización:</h3>Plaza España s/n<br><p></p>",
+            "Image": "public/thumbnails/page44-img-iglesia-de-santiago-apostol.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.4549579713852, -4.464592476582311)18",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/iglesia-de-santiago-apostol"
+        },
+        "TotalImages": 5,
+        "Images": [
+            {
+                "ID": "30",
+                "IDFather": "44",
+                "Image": "cats44-img30-iglesia-santiago-apostol-1.jpg",
+                "Description": "Iglesia santiago apostol 1",
+                "Level": "0",
+                "Orden": "30"
+            },
+            {
+                "ID": "31",
+                "IDFather": "44",
+                "Image": "cats44-img31-iglesia-santiago-apostol-3.jpg",
+                "Description": "Iglesia santiago apostol 3",
+                "Level": "0",
+                "Orden": "31"
+            },
+            {
+                "ID": "32",
+                "IDFather": "44",
+                "Image": "cats44-img32-iglesia-santiago-apostol-5.jpg",
+                "Description": "Iglesia santiago apostol 5",
+                "Level": "0",
+                "Orden": "32"
+            },
+            {
+                "ID": "33",
+                "IDFather": "44",
+                "Image": "cats44-img33-iglesia-santiago-apostol-2.jpg",
+                "Description": "Iglesia santiago apostol 2",
+                "Level": "0",
+                "Orden": "33"
+            },
+            {
+                "ID": "34",
+                "IDFather": "44",
+                "Image": "cats44-img34-iglesia-santiago-apostol-4.jpg",
+                "Description": "Iglesia santiago apostol 4",
+                "Level": "0",
+                "Orden": "34"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

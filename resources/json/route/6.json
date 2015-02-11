@@ -1,0 +1,56 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "6",
+        "Title": "RUTA PCR 6 El Valle-Los Brajales",
+        "Summary": "",
+        "Page": "<p>La ruta PCR 6 “El Valle-Los Brajales” tiene su recorrido por la zona norte de Cebreros.<br>Comienza su trazado dejando a su paso el Museo Adolfo Suárez y la Transición caminando por la calleja del Valle, para subir rápidamente entre viñas a zona de pinar, por la que llegamos al vado para cruzar el arroyo de los Pajares y la Pizarra.<br><br>Aquí podemos descansar disfrutando del paisaje porque a partir de este momento la senda aumenta su dificultad con dura pendiente hasta llegar a las parameras, zonas de tomillo y cantueso, para descender hasta la carretera Hoyo de Pinares-Cebreros.<br><br>Cruzamos la carretera para entrar en una delimitada calleja con paredes de piedra y nos adentraremos en viñedos, que cruzaremos hasta llegar al arroyo de la Pizarra por el puente de San Marcos donde, en subida y pasando al lado del cementerio nos adentraremos en zona de pinares que nos llevará a un camino muy delimitado que continuaremos hasta la entrada de Cebreros.<br><br>Agradecimiento a <a href=\"http://www.losbrajales.es/\">http://www.losbrajales.es/</a><br></p>",
+        "Image": "http://w3.cebreros.es//public/images/route6imgruta-pcr-6-el-valle-los-brajales.jpg",
+        "DatePublish": "2014-12-01",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "22,050 Km-",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "1200",
+        "MinAltitude": "750",
+        "Difficulty": "Media",
+        "Monuments": "Puentes y paisajes",
+        "Panoramics": "Muy buenas",
+        "CycleReady": "70%",
+        "DownloadGPX": "route6gpxruta-pcr-6-el-valle-los-brajales.gpx",
+        "DownloadKML": null,
+        "DownloadPDF": "route6pdfruta-pcr-6-el-valle-los-brajales.pdf",
+        "WikilocLink": "",
+        "Embed": "<iframe frameBorder=\"0\" src=\"http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=3697450&measures=off&title=off&near=off&images=off&maptype=S\" width=\"500\" height=\"400\"></iframe>",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route6imgruta-pcr-6-el-valle-los-brajales.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr-6-el-valle-los-brajales",
+        "Total": 3,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes6-img15-pcr_6_2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes6-img15-pcr_6_2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr_6_2"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes6-img16-pcr-6.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes6-img16-pcr-6.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 6"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes6-img17-llanos_pcr6.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes6-img17-llanos_pcr6.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Llanos_pcr6"
+            }
+        ]
+    }
+}

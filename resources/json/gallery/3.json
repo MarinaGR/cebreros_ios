@@ -1,0 +1,153 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "3",
+        "IDFather": "1",
+        "Title": "Entorno natural",
+        "DatePublish": "2014-12-01",
+        "Image": "http://www.cebreros.es//public/images/gallery3-img-entorno-natural.jpg",
+        "Description": "",
+        "ImageWidth": "1200",
+        "ImageHeight": "1200",
+        "ImageHoldSize": "0",
+        "ImageTrimExcess": "0",
+        "ImageThumbWidth": "300",
+        "ImageThumbHeight": "300",
+        "ImageThumbHoldSize": "1",
+        "ImageThumbTrimExcess": "1",
+        "LevelAccess": "0",
+        "LevelEdit": "2",
+        "LevelDelete": "2",
+        "Drafted": "0",
+        "MinImage": "http://www.cebreros.es//public/thumbnails/gallery3-img-entorno-natural.jpg",
+        "Permalink": "http://www.cebreros.es/turismo/galerias-de-imagenes/entorno-natural",
+        "Total": 25,
+        "Items": [
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img40-1_cebreros-subiendo-arrebataca.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img40-1_cebreros-subiendo-arrebataca.jpg",
+                "Description": "http://www.cebreros.es/public/images/1_cebreros subiendo arrebatacapas"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img41-6_rio-alberche.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img41-6_rio-alberche.jpg",
+                "Description": "http://www.cebreros.es/public/images/6_rio alberche"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img42-2_el-castrejon_1.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img42-2_el-castrejon_1.jpg",
+                "Description": "http://www.cebreros.es/public/images/2_el castrejon_1"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img43-3_el-castrejon_2.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img43-3_el-castrejon_2.jpg",
+                "Description": "http://www.cebreros.es/public/images/3_el castrejon_2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img44-5_puente-valsordo-2.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img44-5_puente-valsordo-2.jpg",
+                "Description": "http://www.cebreros.es/public/images/5_puente valsordo 2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img45-4_fresno-centenario.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img45-4_fresno-centenario.jpg",
+                "Description": "http://www.cebreros.es/public/images/4_fresno centenario"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img46-7_fuente-arrebatacapas.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img46-7_fuente-arrebatacapas.jpg",
+                "Description": "http://www.cebreros.es/public/images/7_fuente arrebatacapas"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img47-10_la-mira_2.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img47-10_la-mira_2.jpg",
+                "Description": "http://www.cebreros.es/public/images/10_la mira_2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img48-8_fuente-de-los-ocho-pilones.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img48-8_fuente-de-los-ocho-pilones.jpg",
+                "Description": "http://www.cebreros.es/public/images/8_fuente de los ocho pilones"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img49-13_puente-romano-sobre-el-bece.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img49-13_puente-romano-sobre-el-bece.jpg",
+                "Description": "http://www.cebreros.es/public/images/13_puente romano sobre el becedas 1"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img50-9_la-mira.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img50-9_la-mira.jpg",
+                "Description": "http://www.cebreros.es/public/images/9_la mira"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img51-11_la-presa-baena.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img51-11_la-presa-baena.jpg",
+                "Description": "http://www.cebreros.es/public/images/11_la presa baena"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img52-14_puente-romano-sobre-el-bece.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img52-14_puente-romano-sobre-el-bece.jpg",
+                "Description": "http://www.cebreros.es/public/images/14_puente romano sobre el becedas 2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img53-12_la-presa-baena_2.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img53-12_la-presa-baena_2.jpg",
+                "Description": "http://www.cebreros.es/public/images/12_la presa baena_2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img54-17_puentenuevo.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img54-17_puentenuevo.jpg",
+                "Description": "http://www.cebreros.es/public/images/17_puentenuevo"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img56-19_puente-arroyo-pajares-3.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img56-19_puente-arroyo-pajares-3.jpg",
+                "Description": "http://www.cebreros.es/public/images/19_puente arroyo pajares 3"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img57-16_puente-san-marcos.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img57-16_puente-san-marcos.jpg",
+                "Description": "http://www.cebreros.es/public/images/16_puente san marcos"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img58-15_los-llanos.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img58-15_los-llanos.jpg",
+                "Description": "http://www.cebreros.es/public/images/15_los llanos"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img59-20_puente-rio-cofio.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img59-20_puente-rio-cofio.jpg",
+                "Description": "http://www.cebreros.es/public/images/20_puente rio cofio"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img60-21_el-castrejon_3.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img60-21_el-castrejon_3.jpg",
+                "Description": "http://www.cebreros.es/public/images/21_el castrejon_3"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img61-23_calzada-real-leonesa-orient.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img61-23_calzada-real-leonesa-orient.jpg",
+                "Description": "http://www.cebreros.es/public/images/23_calzada real leonesa oriental"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img62-22_la-dehesa.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img62-22_la-dehesa.jpg",
+                "Description": "http://www.cebreros.es/public/images/22_la dehesa"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img63-24_puente-valmoscoso-2.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img63-24_puente-valmoscoso-2.jpg",
+                "Description": "http://www.cebreros.es/public/images/24_puente valmoscoso 2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img64-los-llanos-2.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img64-los-llanos-2.jpg",
+                "Description": "http://www.cebreros.es/public/images/Los llanos 2"
+            },
+            {
+                "Image": "http://www.cebreros.es/public/images/galleries3-img65-presa-cebreros-1.jpg",
+                "MinImage": "http://www.cebreros.es/public/thumbnails/galleries3-img65-presa-cebreros-1.jpg",
+                "Description": "http://www.cebreros.es/public/images/Presa cebreros 1"
+            }
+        ]
+    }
+}

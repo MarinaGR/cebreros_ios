@@ -1,0 +1,56 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "5",
+        "Title": "RUTA PCR 5 Camino de la Pilita",
+        "Summary": "",
+        "Page": "<p>La ruta PCR 5 “Camino de la Pilita” se trata de un camino donde descubrir todos los ecosistemas del término municipal. Discurre por caminos y callejas que son excelentes para el senderismo, pero no tan aptos para bicicleta. Hasta el kilómetro 5 transcurre entre olivos y viñas para llegar hasta la ermita de Valsordo por medio de una senda de caballería.<br><br>Continuaremos el camino en buen estado para llegar a la Cañada Real Leonesa, la cual nos llevará durante 10 Km. con pendientes de diferente dureza. Dejaremos la Cañada en el paraje de los Hitos y descendemos entre pinos al arroyo de Pajares para comenzar una nueva subida a través de las parameras donde el romero y el tomillo se hacen dueño del paisaje.<br><br>En suave descenso cogemos la vereda de los Brajales que entre pinos y jaras nos deja en el arroyo de la Pizarra hasta su encuentro con el arroyo Pajares, que cruzaremos para, por la ladera de la montaña encontrar un camino que nos ofrece una panorámica del pueblo y su comarca donde descenderemos hasta llegar al pueblo.<br><br>Agradecimiento a <a href=\"http://www.losbrajales.es/\">http://www.losbrajales.es/</a></p>",
+        "Image": "http://w3.cebreros.es//public/images/route5imgruta-pcr-5-camino-de-la-pilita.jpg",
+        "DatePublish": "2014-12-08",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "22,050 km.",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "1100 m.",
+        "MinAltitude": "750 m.",
+        "Difficulty": "Media-Alta",
+        "Monuments": "Puentes y paisajes",
+        "Panoramics": "Muy Buenas",
+        "CycleReady": "60%",
+        "DownloadGPX": "route5gpxruta-pcr-5-camino-de-la-pilita.gpx",
+        "DownloadKML": null,
+        "DownloadPDF": "route5pdfruta-pcr-5-camino-de-la-pilita.pdf",
+        "WikilocLink": "",
+        "Embed": "<iframe frameBorder=\"0\" src=\"http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=3766962&measures=off&title=off&near=off&images=off&maptype=S\" width=\"500\" height=\"400\"></iframe>",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route5imgruta-pcr-5-camino-de-la-pilita.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr-5-camino-de-la-pilita",
+        "Total": 3,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes5-img12-pcr_5-1.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes5-img12-pcr_5-1.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr_5 1"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes5-img13-pcr_5.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes5-img13-pcr_5.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr_5"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes5-img14-ermita-valsordo_pcr51.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes5-img14-ermita-valsordo_pcr51.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Ermita valsordo_pcr51"
+            }
+        ]
+    }
+}

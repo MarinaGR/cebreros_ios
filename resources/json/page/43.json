@@ -1,0 +1,37 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "Iglesia Vieja",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>La Iglesia Vieja de Santiago fue construida en la segunda mitad del S. XIV en estilo gótico isabelino propio de la época y reconstruida en el S. XV. Perdió su condición de parroquia a principios del S. XVII al construirse la nueva, la actual iglesia de Santiago Apóstol, aunque mantuvo el culto hasta el S. XIX. Posteriormente albergó tantos y tan diferentes usos que provocaron que se convirtiera en una ruina de la que destacamos su rica portada con decoración propia de la provincia, el perlado abulense, la robusta torre de tres cuerpos descendientes en altura y las esbeltas arcadas interiores que definían las tres naves, el altar y las capillas laterales. <br><br>La restauración y reconstrucción de las ruinas de la Iglesia Vieja han permitido entrelazar la historia contemporánea reciente y el presente a través de sus piedras con la construcción del Museo Adolfo Suárez y la Transición, a la vez que se garantizaba la conservación de esta bella muestra del patrimonio artístico de Castilla y León que nuestros antepasados nos legaron.<br><br></p><h3>Localización:</h3>C/Iglesia Vieja s/n<br><p></p>",
+            "Image": "public/thumbnails/page43-img-iglesia-vieja.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.4571716, -4.46563070000002)17",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/iglesia-vieja"
+        },
+        "TotalImages": 1,
+        "Images": [
+            {
+                "ID": "29",
+                "IDFather": "43",
+                "Image": "cats43-img29-2.jpg",
+                "Description": "2",
+                "Level": "0",
+                "Orden": "29"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "7",
+        "Title": "RUTA PCR 7 El Pimiento-La umbría",
+        "Summary": "",
+        "Page": "La ruta PCR 7 “El Pimiento-La umbría” tiene su comienzo por una calleja en principio ancha que según se va estrechando sus paredes de piedra, se va endureciendo para llegar a ser vereda y nos deja en una zona de pinares, con un camino forestal que nos dejará en la carretera de Robledo de Chavela.<br><br>A la altura del cementerio cogemos el camino del campo de tiro y seguimos una pista que dejaremos por una vereda que sale a la derecha entre pinos que nos lleva al arroyo de la Pizarra que cruzaremos, para continuar entre viñas y algunos pinos en ligero ascenso hasta llegar a la carretera. La cruzamos y seguimos para de nuevo entrar en una zona de pinos, salteada con viñas y jaras.<br><br>El camino se convierte en una fuerte subida y gira a la izquierda para descender de nuevo hasta el arroyo de la Pizarra, que cruzamos para tomar un camino entre pinos y huertos que nos llevarán hasta la carretera, que cruzaremos y ya vemos el pueblo al que accederemos por el área deportiva del municipio.<br><br>Agradecimiento a <a href=\"http://www.losbrajales.es/\">http://www.losbrajales.es/</a><br>",
+        "Image": "http://w3.cebreros.es//public/images/route7imgruta-pcr-7-el-pimiento-la-umbria.jpg",
+        "DatePublish": "2014-12-01",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "15,700 Km.",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "900 m.",
+        "MinAltitude": "750 m.",
+        "Difficulty": "Normal",
+        "Monuments": "Paisajes",
+        "Panoramics": "Buenas",
+        "CycleReady": "98%",
+        "DownloadGPX": "route7gpxruta-pcr-7-el-pimiento-la-umbria.gpx",
+        "DownloadKML": null,
+        "DownloadPDF": "route7pdfruta-pcr-7-el-pimiento-la-umbria.pdf",
+        "WikilocLink": "",
+        "Embed": "",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route7imgruta-pcr-7-el-pimiento-la-umbria.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr-7-el-pimiento-la-umbria",
+        "Total": 2,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes7-img18-pcr-7-2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes7-img18-pcr-7-2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 7 2"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes7-img19-pcr-7-3.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes7-img19-pcr-7-3.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 7 3"
+            }
+        ]
+    }
+}

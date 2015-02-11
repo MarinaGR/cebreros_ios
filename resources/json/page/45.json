@@ -1,0 +1,133 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "La ermita y paraje de Valsordo",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>Si hay un lugar de sosiego y regocijo en Cebreros es sin lugar a dudas el paraje y la ermita de Valsordo, espacio de devoción de los cebrereños a su patrona la Virgen de Valsordo. <br><br>La ermita se encuentra muy próxima a la villa, a poco más de dos kilómetros en dirección a los puentes de Valsordo por donde pasa el río Alberche, una zona con una flora donde descubrir pinos, jaras y numerosas cepas de la garnacha cebrereña.<br><br>No existen datos concretos que nos sitúen cronológicamente en la fecha de la construcción de la ermita, aunque en algunos textos del siglo XIII aparece citado ya este lugar.<br><br>La edificación fue cambiando con el tiempo, ampliando sus espacios y restaurando la primitiva ermita. Así de su arquitectura cabe destacar que observamos una planta de salón de una única nave. Al fondo a la izquierda se encuentra la sacristía y en la cabecera encontramos el camerino de la virgen dentro del presbiterio separado del tercer cuerpo por un enrejado de forja junto con un arco de ojiva. Este tercer cuerpo se caracteriza por sus paredes encaladas sin decoración. A la ermita se accede por la zona destinada al coro que cuenta con dos escaños de ofrenda dedicada. <br><br>A ambos lados de la ermita la construcción continúa. Por la derecha un porche corrido de gran belleza artística con cinco pilares de sillares rectangulares y artesonado de vigas de madera y al fondo de éste se observa un reloj de sol con fecha de 1688. Así por la izquierda advertimos la casa del asceta o ermitaño, adosada totalmente a la ermita. En su interior en una de las ventanas aparece la fecha de 1647, posiblemente relativa al año de su construcción.<br><br>En los alrededores de la ermita se encuentran varios pedestales, bolos y peanas que componen el camino del vía crucis, así como dos altares al aire libre para poder celebrar la misa de la romería del primer domingo de mayo a la que acuden cientos de cebrereños y cebrereñas. <br><br>A la entrada del paraje observamos el humilladero de la llamada Capilla de la Virgen Chica, situada al pie del camino imperial de Toledo a Valladolid.<br><br>Las reformas de ermita fueron numerosas a lo largo de los años y una de las más importantes se llevó a cabo entre 1985 y 1986 a cargo del Patronato de la Virgen, la colaboración de vecinos y todo ello dirigido por el párroco de la localidad en aquellos momentos, don Felipe Doyagüez Chico. En esta obra, entre otras intervenciones, se reconstruye la cubierta de forma completa dejando ver un extraordinario artesonado al estilo mudéjar. <br></p>",
+            "Image": "public/thumbnails/page45-img-la-ermita-y-paraje-de-valsordo.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.458336111111116, -8.452391666666665)15",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/la-ermita-y-paraje-de-valsordo"
+        },
+        "TotalImages": 13,
+        "Images": [
+            {
+                "ID": "35",
+                "IDFather": "45",
+                "Image": "cats45-img35-ermita-de-valsordo-2.jpg",
+                "Description": "Ermita de valsordo 2",
+                "Level": "0",
+                "Orden": "1"
+            },
+            {
+                "ID": "36",
+                "IDFather": "45",
+                "Image": "cats45-img36-ermita-de-valsordo-3.jpg",
+                "Description": "Ermita de valsordo 3",
+                "Level": "0",
+                "Orden": "2"
+            },
+            {
+                "ID": "37",
+                "IDFather": "45",
+                "Image": "cats45-img37-ermita-de-valsordo-5.jpg",
+                "Description": "Ermita de valsordo 5",
+                "Level": "0",
+                "Orden": "3"
+            },
+            {
+                "ID": "38",
+                "IDFather": "45",
+                "Image": "cats45-img38-ermita-de-valsordo-7.jpg",
+                "Description": "Ermita de valsordo 7",
+                "Level": "0",
+                "Orden": "4"
+            },
+            {
+                "ID": "39",
+                "IDFather": "45",
+                "Image": "cats45-img39-ermita-de-valsordo-4.jpg",
+                "Description": "Ermita de valsordo 4",
+                "Level": "0",
+                "Orden": "5"
+            },
+            {
+                "ID": "40",
+                "IDFather": "45",
+                "Image": "cats45-img40-ermita-de-valsordo-6.jpg",
+                "Description": "Ermita de valsordo 6",
+                "Level": "0",
+                "Orden": "6"
+            },
+            {
+                "ID": "42",
+                "IDFather": "45",
+                "Image": "cats45-img42-ermita-de-valsordo-10.jpg",
+                "Description": "Ermita de valsordo 10",
+                "Level": "0",
+                "Orden": "8"
+            },
+            {
+                "ID": "43",
+                "IDFather": "45",
+                "Image": "cats45-img43-ermita-de-valsordo-9.jpg",
+                "Description": "Ermita de valsordo 9",
+                "Level": "0",
+                "Orden": "9"
+            },
+            {
+                "ID": "44",
+                "IDFather": "45",
+                "Image": "cats45-img44-ermita-de-valsordo-8.jpg",
+                "Description": "Ermita de valsordo 8",
+                "Level": "0",
+                "Orden": "10"
+            },
+            {
+                "ID": "45",
+                "IDFather": "45",
+                "Image": "cats45-img45-humilladero-virgen-chica-valso.jpg",
+                "Description": "Humilladero virgen chica valsordo 1",
+                "Level": "0",
+                "Orden": "11"
+            },
+            {
+                "ID": "46",
+                "IDFather": "45",
+                "Image": "cats45-img46-humilladero-virgen-chica-valso.jpg",
+                "Description": "Humilladero virgen chica valsordo 2",
+                "Level": "0",
+                "Orden": "12"
+            },
+            {
+                "ID": "47",
+                "IDFather": "45",
+                "Image": "cats45-img47-humilladero-virgen-chica-valso.jpg",
+                "Description": "Humilladero virgen chica valsordo 3",
+                "Level": "0",
+                "Orden": "13"
+            },
+            {
+                "ID": "48",
+                "IDFather": "45",
+                "Image": "cats45-img48-humilladero-virgen-chica-valso.jpg",
+                "Description": "Humilladero virgen chica valsordo",
+                "Level": "0",
+                "Orden": "14"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

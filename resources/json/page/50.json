@@ -1,0 +1,53 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "La plaza de la Santísima Trinidad",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>Aunque su nombre actual sea Plaza de la Santísima Trinidad, es conocida en Cebreros&nbsp; como \"el cotanillo del pozo de la Tía Rodriga” debido a que en ella alberga una vivienda típica castellana construida con adobes, madera y piedra de la que destaca el pozo y su antiguo brocal así como la vieja cuadra de ganados. Es la casa popular mejor conservada de Cebreros, y que nos revela cómo pudo llegar a ser la arquitectura de la villa.</p>",
+            "Image": "public/thumbnails/page50-img-la-plaza-de-la-santisima-trinidad.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.454461111111115, -4.463188888888889)15",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/plazas-de-cebreros/la-plaza-de-la-santisima-trinidad"
+        },
+        "TotalImages": 3,
+        "Images": [
+            {
+                "ID": "54",
+                "IDFather": "50",
+                "Image": "cats50-img54-plaza-trinidad-1.jpg",
+                "Description": "Plaza trinidad 1",
+                "Level": "0",
+                "Orden": "54"
+            },
+            {
+                "ID": "55",
+                "IDFather": "50",
+                "Image": "cats50-img55-plaza-trinidad-2.jpg",
+                "Description": "Plaza trinidad 2",
+                "Level": "0",
+                "Orden": "55"
+            },
+            {
+                "ID": "56",
+                "IDFather": "50",
+                "Image": "cats50-img56-plaza-trinidad-3.jpg",
+                "Description": "Plaza trinidad 3",
+                "Level": "0",
+                "Orden": "56"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

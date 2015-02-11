@@ -1,0 +1,53 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "La Antena de la ESA",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>La Estación de Cebreros DSA 2 (Deep Space Antenna 2) es la primera antena de espacio profundo que hay en toda Europa y una de las tres antenas de espacio profundo mundial que ha desarrollado la ESA (Agencia Europea del Espacio), junto a la que hay en Nueva Norcia, (Australia) la DSA 1 y la de Marlargüe&nbsp; (Argentina) la DSA 3.<br><br>Hasta el año 2002 la Agencia Europea del Espacio carecía de medios tecnológicos para estudiar el espacio profundo y empleaba los sistemas de escucha de la NASA.<br>La DSA 2 de Cebreros se inauguró oficialmente el 28 de septiembre de 2005 y, desde entonces, la Estación de Cebreros proporciona apoyo a las operaciones del satélite entre otras de la Venus Express y el apoyo de copia de seguridad de la Mars Express,&nbsp; así como las misiones aeroespaciales europeas que sean precisas y requeridas.&nbsp; Desde su apertura una de las misiones más importantes que ha desarrollado ha sido el seguimiento del satélite Rosetta, que tras diez años de vuelo en el espacio exterior y recorriendo más de 6.400 millones de kilómetros a través del sistema solar ha logrado alcanzar un cometa, ponerse a su paso y depositar en él un módulo científico para estudiarlo en detalle, concretamente el módulo Philae. Es la primera vez en la historia que se ha conseguido un logro así y la Antena de Cebreros ha contribuido de forma muy importante en el desarrollo de la misión.<br><br>La DSA 2 de Cebreros posee unas características que hacen de esta antena disponer de una elevadísima&nbsp; tecnología. El reflector principal es de 35 metros, su altura visible 40 metros más otros 20 metros de profundidad para sus cimientos donde se encuentra la mecánica principal que permite sus movimientos. Así mismo su peso es de 630 toneladas.<br><br>La DSA 2&nbsp; de Cebreros es operada de forma remota desde el ESOC, el centro europeo de operaciones espaciales ubicado en Alemania.<br></p>",
+            "Image": "public/thumbnails/page54-img-la-antena-de-la-esa.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.45341388888889, -4.368541666666666)15",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/la-antena-de-la-esa"
+        },
+        "TotalImages": 3,
+        "Images": [
+            {
+                "ID": "57",
+                "IDFather": "54",
+                "Image": "cats54-img57-antena-dsa-2_esa-en-cebreros.jpg",
+                "Description": "Antena dsa 2_esa en cebreros",
+                "Level": "0",
+                "Orden": "57"
+            },
+            {
+                "ID": "58",
+                "IDFather": "54",
+                "Image": "cats54-img58-antena-dsa-2_esa-en-cebreros-2.jpg",
+                "Description": "Antena dsa 2_esa en cebreros 2",
+                "Level": "0",
+                "Orden": "58"
+            },
+            {
+                "ID": "59",
+                "IDFather": "54",
+                "Image": "cats54-img59-antena-dsa-2_esa-en-cebreros-3.jpg",
+                "Description": "Antena dsa 2_esa en cebreros 3",
+                "Level": "0",
+                "Orden": "59"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

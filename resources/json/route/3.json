@@ -1,0 +1,56 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "3",
+        "Title": "RUTA PCR3  Real del Norte",
+        "Summary": "",
+        "Page": "La Ruta PCR 3 Real del Norte comienza saliendo por la parte trasera del Museo Adolfo Suárez y la Transición, por el camino real de Toledo-Valladolid.<br><br>Comenzamos con una subida, que nos deja en el alto de Arrebatacapas a 1120 metros de altura y continuamos subiendo entre pinos para disfrutar de bonitas panorámicas.<br><br>Continuaremos nuestra ruta entre robles y jaras por un ancho camino desde donde divisamos las parameras y Gredos en toda su extensión. Cruzamos&nbsp; la carretera y los enebros y los pinos se van adueñando del páramo. El camino en buen estado se convierte en una vereda estrecha por donde, bajando en paralelo al arroyo de la Pizarra, disfrutaremos de un excelente paisaje en el paraje de los Brajales.<br><br>Cruzaremos el arroyo Pajares y el camino se hace más ancho y la subida nos lleva a Morunas, paraje con excelentes vistas de Cebreros y del Valle del Bajo Alberche.<br><br>Agradecimiento a <a href=\"http://www.losbrajales.es/\">http://www.losbrajales.es/</a><br>",
+        "Image": "http://w3.cebreros.es//public/images/route3imgruta-pcr3--real-del-norte.jpg",
+        "DatePublish": "2014-12-01",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "18,450 K.",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "1200 m.",
+        "MinAltitude": "750 m.",
+        "Difficulty": "Media-Alta",
+        "Monuments": "Paisaje",
+        "Panoramics": "Muy buenas",
+        "CycleReady": "65%",
+        "DownloadGPX": "route3gpxruta-pcr3--real-del-norte.gpx",
+        "DownloadKML": null,
+        "DownloadPDF": "route3pdfruta-pcr3--real-del-norte.pdf",
+        "WikilocLink": "http://es.wikiloc.com/wikiloc/view.do?id=6354899",
+        "Embed": "<iframe frameBorder=\"0\" src=\"http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=6354899&measures=off&title=off&near=off&images=off&maptype=S\" width=\"500\" height=\"400\"></iframe>",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route3imgruta-pcr3--real-del-norte.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr3--real-del-norte",
+        "Total": 3,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes3-img6-pcr-3_2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes3-img6-pcr-3_2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 3_2"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes3-img7-pcr-3.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes3-img7-pcr-3.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 3"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes3-img8-fuente-arrebatacapas-1_pcr-3.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes3-img8-fuente-arrebatacapas-1_pcr-3.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Fuente arrebatacapas 1_pcr 3"
+            }
+        ]
+    }
+}

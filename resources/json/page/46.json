@@ -1,0 +1,53 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "La Picota",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>La Picota, o el rollo de justicia es todo un símbolo de Cebreros, un monumento del siglo XVI otorgado a la villa en el momento que ya logró la unidad jurisdiccional propia.<br><br>Se encuentra en la parte baja del pueblo, en el paso de la calzada que unía Valladolid con Toledo.<br><br>Está formada por cuatro elementos principales: su basa cuadrangular, un fuste liso, un capitel coronado con&nbsp; cuatro salientes en forma de volutas&nbsp; y cuatro querubines que apuntan a los puntos cardinales y finalmente flanqueada por una pirámide truncada.<br><br>La Picota de Cebreros de granito centenario ha resistido con total integridad el paso de los siglos, convirtiéndose en parada obligatoria de visita desde donde observar su majestuosidad y unas excelentes vistas del valle del Alberche, el final de la sierra de Gredos y el monte de Guisando.<br></p>",
+            "Image": "public/thumbnails/page46-img-la-picota.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.45113055555556, -4.463136111111111)15",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/la-picota"
+        },
+        "TotalImages": 3,
+        "Images": [
+            {
+                "ID": "50",
+                "IDFather": "46",
+                "Image": "cats46-img50-la-picota-s_xvi-3.jpg",
+                "Description": "La picota s_xvi 3",
+                "Level": "0",
+                "Orden": "50"
+            },
+            {
+                "ID": "70",
+                "IDFather": "46",
+                "Image": "cats46-img70-la-picota-s_xvi-1.jpg",
+                "Description": "La picota s_xvi 1",
+                "Level": "0",
+                "Orden": "70"
+            },
+            {
+                "ID": "71",
+                "IDFather": "46",
+                "Image": "cats46-img71-la-picota-s_xvi.jpg",
+                "Description": "La picota s_xvi",
+                "Level": "0",
+                "Orden": "71"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

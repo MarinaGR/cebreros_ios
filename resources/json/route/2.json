@@ -1,0 +1,56 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "ID": "2",
+        "Title": "RUTA PCR 2 El Higuerón",
+        "Summary": "",
+        "Page": "<p>La ruta pcr2 “El higuerón” sale acompañada del GR10 por una pequeña calleja perfectamente delimitada al lado de la ubicación de la plaza de toros de Cebreros, entre paredes de piedra y rodeada de viñas y olivos centenarios, para después cruzar la carretera. El camino continúa hasta llegar a la Calzada Real Leonesa para cruzarla y del camino comienza una suave pendiente junto con el GR 10 que al llegar al arroyo del Tejar éste continúa por el camino del agua, mientras que nuestro PCR 2 por una vereda que comienza a aumentar mucho más su pendiente para que a través de excelentes panorámicas nos dejan en el punto más alto de la villa, La Mira, donde podemos descansar disfrutando de la Sierra de Gredos y en días claros, incluso de la de Guadarrama.<br><br>Bajaremos por el vértice de la sierra disfrutando, por un lado de los antiguos prados, retamas, tomillo, romero, enebros y por otro de rodales de robles y jaras de gran porte. Nos encontramos con fuentes de agua fría para llegar de nuevo a la Cañada Real donde visitaremos el Pozo de la Nieve, para después cruzar el arroyo Pajares y subir a los Hitos, lugar ideal para disfrutar de las vistas y descansar. A partir de ese punto comienza el descenso. <br><br>Agradecimiento a <a href=\"http://www.losbrajales.es/\">http://www.losbrajales.es/</a></p>",
+        "Image": "http://w3.cebreros.es//public/images/route2imgruta-pcr-2-el-higueron.jpg",
+        "DatePublish": "2014-12-08",
+        "Author": "Los Brajales",
+        "SingPosted": "0",
+        "Active": "1",
+        "WalkRoute": "1",
+        "BicycleRoute": "1",
+        "MountainBikeRoute": "0",
+        "TouristRoute": "0",
+        "TrailRidingRoute": "0",
+        "Distance": "16,150 Km.",
+        "Duration": "",
+        "IsCircular": "0",
+        "AccumulatedDifUp": "",
+        "AccumulatedDifDown": "",
+        "MaxAltitude": "1318 m.",
+        "MinAltitude": "750 m.",
+        "Difficulty": "Media",
+        "Monuments": "Pozo de nieve",
+        "Panoramics": "Muy buenas",
+        "CycleReady": "45%",
+        "DownloadGPX": "route2gpxruta-pcr-2-el-higueron.gpx",
+        "DownloadKML": null,
+        "DownloadPDF": "route2pdfruta-pcr-2-el-higueron.pdf",
+        "WikilocLink": "http://es.wikiloc.com/wikiloc/view.do?id=6288882",
+        "Embed": "<iframe frameBorder=\"0\" src=\"http://es.wikiloc.com/wikiloc/spatialArtifacts.do?event=view&id=6288882&measures=off&title=off&near=off&images=off&maptype=S\" width=\"500\" height=\"400\"></iframe>",
+        "Link360View": "",
+        "MinImage": "http://w3.cebreros.es//public/thumbnails/route2imgruta-pcr-2-el-higueron.jpg",
+        "Permalink": "http://w3.cebreros.es/turismo/rutas-y-entorno-natural/rutas-de-senderismo/ruta-pcr-2-el-higueron",
+        "Total": 3,
+        "Items": [
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes2-img3-la-mira-pcr2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes2-img3-la-mira-pcr2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/La mira pcr2"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes2-img4-pcr-2.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes2-img4-pcr-2.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 2"
+            },
+            {
+                "Image": "http://w3.cebreros.es/public/images/routes2-img5-pcr-2-1.jpg",
+                "MinImage": "http://w3.cebreros.es/public/thumbnails/routes2-img5-pcr-2-1.jpg",
+                "Description": "http://w3.cebreros.es/public/images/Pcr 2 1"
+            }
+        ]
+    }
+}

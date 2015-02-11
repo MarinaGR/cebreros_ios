@@ -1,0 +1,127 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "Museo Adolfo Suárez y la Transición",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>El Museo Adolfo Suárez y la Transición pretende ser un homenaje amplio y con perspectiva nacional, para que las distintas generaciones recuerden, conozcan y aprendan del trabajo que desempeñó nuestro cebrereño universal, Adolfo Suárez,&nbsp; en el proceso de la Transición, esta etapa fundamental para la definición de nuestro país, así como un homenaje a las personas que lucharon para que la llegada de la Democracia fuera posible.<br><br>Muchos fueron los protagonistas de este proceso pero especial mención merece, sin duda, la figura del cebrereño Adolfo Suárez, el primer presidente democráticamente elegido desde 1936, que supo liderar el proceso de construcción del estado democrático en el que vivimos a día de hoy.<br><br>El Ayuntamiento de Cebreros, promotor e impulsor de este Museo, promovió una exhaustiva y cuidadosa intervención para restaurar y reconstruir las ruinas de la Iglesia de Santiago, conocida como la Iglesia Vieja de Cebreros, que ha permitido que este marco singular albergar el Museo Adolfo Suárez y la Transición.<br><br></p><h3>Localización:</h3>C/Iglesia Vieja s/n<br>Tlf: 91 863 01 33<br><br><h3>Horarios del MAST:</h3><br>De invierno (16 de septiembre al 30 de abril)<br>Martes a Sábado: 10:00 a 14:00 y de 16:00 a 18:00h<br>Domingos y festivos: 10:00 a 15:00h<br><br>De verano (1 de mayo al 15 de septiembre)<br>Martes a Sábado: 10:00 a 14:00 y de 16:30 a 19:30h<br>Domingos y festivos: 10:00 a 15:00h<br><br>Los lunes permanece cerrado.<p></p>",
+            "Image": "public/thumbnails/page42-img-museo-adolfo-suarez-y-la-transicion.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.4571716, -4.46563070000002)17",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/museo-adolfo-suarez-y-la-transicion"
+        },
+        "TotalImages": 11,
+        "Images": [
+            {
+                "ID": "18",
+                "IDFather": "42",
+                "Image": "cats42-img18-8.jpg",
+                "Description": "8",
+                "Level": "0",
+                "Orden": "18"
+            },
+            {
+                "ID": "19",
+                "IDFather": "42",
+                "Image": "cats42-img19-9.jpg",
+                "Description": "9",
+                "Level": "0",
+                "Orden": "19"
+            },
+            {
+                "ID": "20",
+                "IDFather": "42",
+                "Image": "cats42-img20-12.jpg",
+                "Description": "12",
+                "Level": "0",
+                "Orden": "20"
+            },
+            {
+                "ID": "21",
+                "IDFather": "42",
+                "Image": "cats42-img21-13.jpg",
+                "Description": "13",
+                "Level": "0",
+                "Orden": "21"
+            },
+            {
+                "ID": "22",
+                "IDFather": "42",
+                "Image": "cats42-img22-3.jpg",
+                "Description": "3",
+                "Level": "0",
+                "Orden": "22"
+            },
+            {
+                "ID": "23",
+                "IDFather": "42",
+                "Image": "cats42-img23-4.jpg",
+                "Description": "4",
+                "Level": "0",
+                "Orden": "23"
+            },
+            {
+                "ID": "24",
+                "IDFather": "42",
+                "Image": "cats42-img24-10.jpg",
+                "Description": "10",
+                "Level": "0",
+                "Orden": "24"
+            },
+            {
+                "ID": "25",
+                "IDFather": "42",
+                "Image": "cats42-img25-11.jpg",
+                "Description": "11",
+                "Level": "0",
+                "Orden": "25"
+            },
+            {
+                "ID": "26",
+                "IDFather": "42",
+                "Image": "cats42-img26-7.jpg",
+                "Description": "7",
+                "Level": "0",
+                "Orden": "26"
+            },
+            {
+                "ID": "27",
+                "IDFather": "42",
+                "Image": "cats42-img27-5.jpg",
+                "Description": "5",
+                "Level": "0",
+                "Orden": "27"
+            },
+            {
+                "ID": "28",
+                "IDFather": "42",
+                "Image": "cats42-img28-6.jpg",
+                "Description": "6",
+                "Level": "0",
+                "Orden": "28"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 1,
+        "Links": [
+            {
+                "ID": "11",
+                "IDFather": "42",
+                "Link": "http://www.museoadolfosuarezylatransicion.com/",
+                "Description": "Web Oficial",
+                "CounterClick": "0",
+                "Level": "0",
+                "Orden": "11"
+            }
+        ],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}

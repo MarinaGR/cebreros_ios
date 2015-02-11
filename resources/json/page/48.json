@@ -1,0 +1,45 @@
+{
+    "Sucess": 1,
+    "Result": {
+        "Data": {
+            "PreTitle": null,
+            "Title": "El Puente San Marcos y del Becedas",
+            "PostTitle": null,
+            "Summary": null,
+            "Page": "<p>En una hermosa zona de la Villa de Cebreros entre viñas y pinares y sobre el arroyo de la Pizarra encontramos el puente de San Marcos, de un solo ojo, tajamar a dos aguas y con paramentos laterales, se cree que es de traza romana-románica con varias reconstrucciones. <br><br>A continuación de este, en un camino a la izquierda se alza ante nuestra mirada el puente del Becedas. De mayor tamaño que el de San Marcos, con calzada lastrillada y de un solo ojo, destaca el lomo de lobo en el machón, siendo achatado desde su tajamar.<br></p>",
+            "Image": "public/thumbnails/page48-img-el-puente-san-marcos-y-del-becedas.jpg",
+            "DatePublish": "2014-12-01 00:00:00",
+            "DateExpire": "2024-12-05 00:00:00",
+            "PageTitle": null,
+            "MetaKeyWords": null,
+            "MetaDescription": null,
+            "Geolocation": "(40.47376944444444, -4.429536111111111)15",
+            "Permalink": "http://w3.cebreros.es/turismo/que-visitar/puentes-de-cebreros/el-puente-san-marcos-y-del-becedas"
+        },
+        "TotalImages": 2,
+        "Images": [
+            {
+                "ID": "52",
+                "IDFather": "48",
+                "Image": "cats48-img52-5_puente-san-marcos.jpg",
+                "Description": "5_puente san marcos",
+                "Level": "0",
+                "Orden": "52"
+            },
+            {
+                "ID": "53",
+                "IDFather": "48",
+                "Image": "cats48-img53-4_puente-sobre-becedas-2.jpg",
+                "Description": "4_puente sobre becedas 2",
+                "Level": "0",
+                "Orden": "53"
+            }
+        ],
+        "TotalAttachments": 0,
+        "Attachments": [],
+        "TotalLinks": 0,
+        "Links": [],
+        "TotalVideos": 0,
+        "Videos": []
+    }
+}
