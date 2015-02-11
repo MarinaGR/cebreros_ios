@@ -106,384 +106,300 @@ function onOffline()
 }
 
 function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_number) {
-
-	//window.requestFileSystem(LocalFileSystem.PERSISTENT, 0, function(fileSystem) 
-	{
-		console.log("FileSystem OK");
-		//Cargado el sistema de archivos, recuperar ficheros
-			
-		//fs=fileSystem.root;
-		//setFilePath();	
 		
-		if(isLocal==true || isLocal=="true")
-		{			
-			var objajax=$.getJSON(local_url+type+id+".json", f_success)
-				.fail(function(jqXHR, textStatus, errorThrown) {
-					//alert('Error: '+type+id+" - "+textStatus+"  "+errorThrown);	
-					$("#"+container).append("No se han cargado los datos del archivo.<br>Error: "+type+id+" - "+textStatus+"  "+errorThrown);
-				});
-		
-		}
-		else 
-		{
-			$.ajax({
-			  url: api_url+type+id,
-			  type: 'GET',
-			  dataType: 'json',
-			  crossDomain: true, 
-			  success: f_success,
-			  error: f_error,
-			  async:false,
+	if(isLocal==true || isLocal=="true")
+	{			
+		var objajax=$.getJSON(local_url+type+id+".json", f_success)
+			.fail(function(jqXHR, textStatus, errorThrown) {
+				//alert('Error: '+type+id+" - "+textStatus+"  "+errorThrown);	
+				$("#"+container).append("No se han cargado los datos del archivo.<br>Error: "+type+id+" - "+textStatus+"  "+errorThrown);
 			});
-		
-		}
 	
-		function f_success(data) {
-		
-			//data = $.parseJSON(data);
-			
-			switch(type)
-			{
-				case "category": 			
-						var cadena="";
+	}
+	else 
+	{
+		$.ajax({
+		  url: api_url+type+id,
+		  type: 'GET',
+		  dataType: 'json',
+		  crossDomain: true, 
+		  success: f_success,
+		  error: f_error,
+		  async:false,
+		});
+	
+	}
 
-						$.each(data.Result.Items, function(index, d){   
-						
-							if(d.ID!=64)
+	function f_success(data) {
+	
+		//data = $.parseJSON(data);
+		
+		switch(type)
+		{
+			case "category": 			
+					var cadena="";
+
+					$.each(data.Result.Items, function(index, d){   
+					
+						if(d.ID!=64)
+						{
+							var fecha=new Date(d.DatePublish);
+							var imagen=d.Image; 
+							
+							if(online)
 							{
-								var fecha=new Date(d.DatePublish);
-								var imagen=d.Image; 
-								
-								if(online)
-								{
-									if(imagen!=null && imagen!="null" && imagen!="" && (imagen.indexOf("jpg")>0 || imagen.indexOf("png")>0)) 
-									{						
-										if(imagen.indexOf("http")<0)
-										{
-											if(imagen.indexOf("public/images")>=0 || imagen.indexOf("public/thumbnails")>=0)
-												cadena+="<div style='width:100%;height:75px;background:#FFF url("+extern_url+imagen+") no-repeat center;background-size:cover;'></div>";
-											else
-												cadena+="<div style='width:100%;height:75px;background:#FFF url("+extern_url+"public/thumbnails/"+imagen+") no-repeat center;background-size:cover;'></div>";							
-										}
+								if(imagen!=null && imagen!="null" && imagen!="" && (imagen.indexOf("jpg")>0 || imagen.indexOf("png")>0)) 
+								{						
+									if(imagen.indexOf("http")<0)
+									{
+										if(imagen.indexOf("public/images")>=0 || imagen.indexOf("public/thumbnails")>=0)
+											cadena+="<div style='width:100%;height:75px;background:#FFF url("+extern_url+imagen+") no-repeat center;background-size:cover;'></div>";
 										else
-											cadena+="<div style='width:100%;height:75px;background:#FFF url("+imagen+") no-repeat center;background-size:cover;'></div>";
+											cadena+="<div style='width:100%;height:75px;background:#FFF url("+extern_url+"public/thumbnails/"+imagen+") no-repeat center;background-size:cover;'></div>";							
 									}
 									else
-									{
-										cadena+="<div style='width:100%;height:75px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
-									}
+										cadena+="<div style='width:100%;height:75px;background:#FFF url("+imagen+") no-repeat center;background-size:cover;'></div>";
 								}
 								else
 								{
 									cadena+="<div style='width:100%;height:75px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
 								}
-									
-								if(isLocal!=true && isLocal!="true")
-									cadena+="<div class='fecha_01'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
-								
-								//cadena+="<h3>"+decodeURIComponent(escape(d.Title))+"</h3>";
-								cadena+="<h3>"+d.Title+"</h3>";
-								
-								if(isLocal)
-									cadena+="<a class='vermas' href='noticia.html?id="+d.ID+"&local=true'>VER</a>";
-								else
-									cadena+="<a class='vermas' href='noticia.html?id="+d.ID+"&local=false'>VER</a>";
 							}
-
-						});
-
-						$("#"+container).html(cadena);
-					
-						break;
-						
-				case "page": 			
-						var cadena="";
-					
-						var d=data.Result.Data;
-							
-						var fecha=new Date(d.DatePublish);
-						var imagen=d.Image; 
-						cadena+="<h2>"+d.Title+"</h2>";
-						
-						if(isLocal!=true && isLocal!="true")
-							cadena+="<div class='fecha_02'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
-
-						if(online)
-						{
-							if(imagen!=null && imagen!="null" && imagen!="" && (imagen.indexOf("jpg")>0 || imagen.indexOf("png")>0)) 
-							{						
-								if(imagen.indexOf("http")<0)
-								{
-									if(imagen.indexOf("public/images")>=0 || imagen.indexOf("public/thumbnails")>=0)
-										cadena+="<img src='"+extern_url+imagen+"' style='display:block;margin:auto;' alt='Imagen principal' />";
-									else
-										cadena+="<img src='"+extern_url+"public/thumbnails/"+imagen+"' style='display:block;margin:auto;' alt='Imagen principal' />";
-								
-								}
-								else
-									cadena+="<img src='"+imagen+"' style='display:block;margin:auto;' alt='Imagen principal' />";
-								
-							}
-						}
-						
-						cadena+=d.Page;
-						
-						var geolocation2=d.Geolocation;
-						if(geolocation2!="" && geolocation2!=null)
-						{
-							geolocation2=geolocation2.split(/[(,)]/);
-							var geo_lat=geolocation2[1];
-							var geo_lon=geolocation2[2];
-							var my_zoom=parseInt(geolocation2[3]);
-															
-							destination=geo_lat+","+geo_lon;
-							
-							get_geo_route_map();
-							
-							//cadena+="<br><iframe width='100%' style='height:450px;border:none;' id='geo_route_map'  src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyAD0H1_lbHwk3jMUzjVeORmISbIP34XtzU&origin="+destination+"&destination="+destination+"&avoid=tolls|highways&language=es' ></iframe>";
-							
-							cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";							
-
-						}
-						
-						if(online)
-						{
-							
-							var imagenes=data.Result.Images;
-							if(data.Result.TotalImages>0) 
+							else
 							{
-								for(i=0;i<data.Result.TotalImages;i++)
-									cadena+="<br><img src='"+(extern_url+"public/thumbnails/"+imagenes[i].Image)+"' style='display:block;margin:auto;' alt='Imagen' />";
-									
-								cadena+="<br>";
-							}
-							
-							var videos=data.Result.Videos;
-							if(data.Result.TotalVideos>0) 
-							{
-								for(i=0;i<data.Result.TotalVideos;i++)
-								{
-									var src_video=$(videos[i].Embed).attr('src');
-									
-									if(src_video.substring(0, 2)=="//")
-									{
-										var new_src_video="http:"+src_video;
-										cadena+="<br>"+videos[i].Embed.replace(src_video, new_src_video);
-									}
-										
-									if(src_video.substring(0, 4)=="http")
-										cadena+="<br>"+videos[i].Embed;			
-										
-									$(videos[i].Embed).css('max-width','100%'); 	
-								}
-								
-								cadena+="<br>";
-							}
-						}
-						
-						var adjuntos=data.Result.Attachments;
-						if(data.Result.TotalAttachments>0) 
-						{
-							for(i=0;i<data.Result.TotalAttachments;i++)
-								cadena+='<br><a class="vermas" onclick="window.open(\''+extern_url+'public/files/'+adjuntos[i].File+'\', \'_system\', \'location=yes\');" href="#" >'+adjuntos[i].Description+'</a>';
-							
-							cadena+="<br>";
-						}
-						var enlaces=data.Result.Links;
-						if(data.Result.TotalLinks>0) 
-						{
-							for(i=0;i<data.Result.TotalLinks;i++)
-								cadena+='<br><a class="vermas" onclick="window.open(\''+enlaces[i].Link+'\', \'_system\', \'location=yes\');" href="#" >'+enlaces[i].Description+'</a>';
-							
-							cadena+="<br>";
-						}
-					
-						$("#"+container).html(cadena);
-						
-						$("a").on("click", function(e) {
-							var url = $(this).attr('href');
-							var containsHttp = new RegExp('http\\b'); 
-							
-							if(containsHttp.test(url)) { 
-								e.preventDefault(); 
-								window.open(url, "_system", "location=yes"); // For iOS
-								//navigator.app.loadUrl(url, {openExternal: true}); //For Android
-							}
-						});	
-					
-						break;
-						
-				case "calendar": break;
-				case "calendar_day": break;
-				case "event": break;
-				
-				case "galleries": 
-						var cadena="";
-						
-						$.each(data.Result.Items, function(index, d){   
-							var imagen=d.Image; 
-							
-							cadena+="<div class='buttons_galleries'>";
-							if(imagen!=null && imagen!="null" && imagen!="") 
-							{
-								//Sacar ruta local para la imagen	
-								var imagen_local=imagen.split("/public/images/");
-								
-								cadena+="<div style='width:100%;height:75px;background: #FFF url("+local_url+'/gallery/'+d.ID+'/'+imagen_local[1]+") no-repeat center;background-size:cover;'></div>";
+								cadena+="<div style='width:100%;height:75px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
 							}
 								
+							if(isLocal!=true && isLocal!="true")
+								cadena+="<div class='fecha_01'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
+							
+							//cadena+="<h3>"+decodeURIComponent(escape(d.Title))+"</h3>";
 							cadena+="<h3>"+d.Title+"</h3>";
 							
 							if(isLocal)
-								cadena+="<a class='vermas' href='fotos.html?id="+d.ID+"&local=true'>VER</a></div>";
+								cadena+="<a class='vermas' href='noticia.html?id="+d.ID+"&local=true'>VER</a>";
 							else
-								cadena+="<a class='vermas' href='fotos.html?id="+d.ID+"&local=false'>VER</a></div>";
+								cadena+="<a class='vermas' href='noticia.html?id="+d.ID+"&local=false'>VER</a>";
+						}
 
-						});
-						
-						cadena+="<div style='clear:both'> </div>";
+					});
 
-						$("#"+container).html(cadena);
-						break;
-						
-				case "gallery": 
-						var cadena="";
+					$("#"+container).html(cadena);
+				
+					break;
 					
-						var d=data.Result;
+			case "page": 			
+					var cadena="";
+				
+					var d=data.Result.Data;
 						
-						var fecha=new Date(d.DatePublish);
+					var fecha=new Date(d.DatePublish);
+					var imagen=d.Image; 
+					cadena+="<h2>"+d.Title+"</h2>";
+					
+					if(isLocal!=true && isLocal!="true")
+						cadena+="<div class='fecha_02'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
+
+					if(online)
+					{
+						if(imagen!=null && imagen!="null" && imagen!="" && (imagen.indexOf("jpg")>0 || imagen.indexOf("png")>0)) 
+						{						
+							if(imagen.indexOf("http")<0)
+							{
+								if(imagen.indexOf("public/images")>=0 || imagen.indexOf("public/thumbnails")>=0)
+									cadena+="<img src='"+extern_url+imagen+"' style='display:block;margin:auto;' alt='Imagen principal' />";
+								else
+									cadena+="<img src='"+extern_url+"public/thumbnails/"+imagen+"' style='display:block;margin:auto;' alt='Imagen principal' />";
+							
+							}
+							else
+								cadena+="<img src='"+imagen+"' style='display:block;margin:auto;' alt='Imagen principal' />";
+							
+						}
+					}
+					
+					cadena+=d.Page;
+					
+					var geolocation2=d.Geolocation;
+					if(geolocation2!="" && geolocation2!=null)
+					{
+						geolocation2=geolocation2.split(/[(,)]/);
+						var geo_lat=geolocation2[1];
+						var geo_lon=geolocation2[2];
+						var my_zoom=parseInt(geolocation2[3]);
+														
+						destination=geo_lat+","+geo_lon;
+						
+						get_geo_route_map();
+						
+						//cadena+="<br><iframe width='100%' style='height:450px;border:none;' id='geo_route_map'  src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyAD0H1_lbHwk3jMUzjVeORmISbIP34XtzU&origin="+destination+"&destination="+destination+"&avoid=tolls|highways&language=es' ></iframe>";
+						
+						cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";							
+
+					}
+					
+					if(online)
+					{
+						
+						var imagenes=data.Result.Images;
+						if(data.Result.TotalImages>0) 
+						{
+							for(i=0;i<data.Result.TotalImages;i++)
+								cadena+="<br><img src='"+(extern_url+"public/thumbnails/"+imagenes[i].Image)+"' style='display:block;margin:auto;' alt='Imagen' />";
+								
+							cadena+="<br>";
+						}
+						
+						var videos=data.Result.Videos;
+						if(data.Result.TotalVideos>0) 
+						{
+							for(i=0;i<data.Result.TotalVideos;i++)
+							{
+								var src_video=$(videos[i].Embed).attr('src');
+								
+								if(src_video.substring(0, 2)=="//")
+								{
+									var new_src_video="http:"+src_video;
+									cadena+="<br>"+videos[i].Embed.replace(src_video, new_src_video);
+								}
+									
+								if(src_video.substring(0, 4)=="http")
+									cadena+="<br>"+videos[i].Embed;			
+									
+								$(videos[i].Embed).css('max-width','100%'); 	
+							}
+							
+							cadena+="<br>";
+						}
+					}
+					
+					var adjuntos=data.Result.Attachments;
+					if(data.Result.TotalAttachments>0) 
+					{
+						for(i=0;i<data.Result.TotalAttachments;i++)
+							cadena+='<br><a class="vermas" onclick="window.open(\''+extern_url+'public/files/'+adjuntos[i].File+'\', \'_system\', \'location=yes\');" href="#" >'+adjuntos[i].Description+'</a>';
+						
+						cadena+="<br>";
+					}
+					var enlaces=data.Result.Links;
+					if(data.Result.TotalLinks>0) 
+					{
+						for(i=0;i<data.Result.TotalLinks;i++)
+							cadena+='<br><a class="vermas" onclick="window.open(\''+enlaces[i].Link+'\', \'_system\', \'location=yes\');" href="#" >'+enlaces[i].Description+'</a>';
+						
+						cadena+="<br>";
+					}
+				
+					$("#"+container).html(cadena);
+					
+					$("a").on("click", function(e) {
+						var url = $(this).attr('href');
+						var containsHttp = new RegExp('http\\b'); 
+						
+						if(containsHttp.test(url)) { 
+							e.preventDefault(); 
+							window.open(url, "_system", "location=yes"); // For iOS
+							//navigator.app.loadUrl(url, {openExternal: true}); //For Android
+						}
+					});	
+				
+					break;
+					
+			case "calendar": break;
+			case "calendar_day": break;
+			case "event": break;
+			
+			case "galleries": 
+					var cadena="";
+					
+					$.each(data.Result.Items, function(index, d){   
 						var imagen=d.Image; 
-						cadena+="<h2>"+d.Title+"</h2>";
 						
-						cadena+=d.Description;
+						cadena+="<div class='buttons_galleries'>";
+						if(imagen!=null && imagen!="null" && imagen!="") 
+						{
+							//Sacar ruta local para la imagen	
+							var imagen_local=imagen.split("/public/images/");
+							
+							cadena+="<div style='width:100%;height:75px;background: #FFF url("+local_url+'/gallery/'+d.ID+'/'+imagen_local[1]+") no-repeat center;background-size:cover;'></div>";
+						}
+							
+						cadena+="<h3>"+d.Title+"</h3>";
 						
 						if(isLocal)
+							cadena+="<a class='vermas' href='fotos.html?id="+d.ID+"&local=true'>VER</a></div>";
+						else
+							cadena+="<a class='vermas' href='fotos.html?id="+d.ID+"&local=false'>VER</a></div>";
+
+					});
+					
+					cadena+="<div style='clear:both'> </div>";
+
+					$("#"+container).html(cadena);
+					break;
+					
+			case "gallery": 
+					var cadena="";
+				
+					var d=data.Result;
+					
+					var fecha=new Date(d.DatePublish);
+					var imagen=d.Image; 
+					cadena+="<h2>"+d.Title+"</h2>";
+					
+					cadena+=d.Description;
+					
+					if(isLocal)
+					{
+						if(d.Total>0) 
+						{
+							var imagenes=d.Items;
+							for(i=0;i<d.Total;i++)
+							{
+								//Sacar ruta local para la imagen	
+								var imagen_local=(imagenes[i].Image).split("/public/images/");
+							
+								cadena+='<br><img src="'+local_url+'gallery/'+d.ID+'/'+imagen_local[1]+'" style="display:block;margin:auto;" alt="Imagen" onclick="window.open(\''+local_url+'gallery/'+d.ID+'/'+imagen_local[1]+'\', \'_system\', \'location=yes\');"  />';
+								
+							}
+						}
+						
+					}
+					else
+					{
+						if(online)
 						{
 							if(d.Total>0) 
 							{
 								var imagenes=d.Items;
 								for(i=0;i<d.Total;i++)
-								{
-									//Sacar ruta local para la imagen	
-									var imagen_local=(imagenes[i].Image).split("/public/images/");
-								
-									cadena+='<br><img src="'+local_url+'gallery/'+d.ID+'/'+imagen_local[1]+'" style="display:block;margin:auto;" alt="Imagen" onclick="window.open(\''+local_url+'gallery/'+d.ID+'/'+imagen_local[1]+'\', \'_system\', \'location=yes\');"  />';
-									
-								}
+									cadena+="<br><img src='"+imagenes[i].Image+"' style='display:block;margin:auto;' alt='Imagen' />";
+									//Cargar imagen web
 							}
-							
-						}
-						else
-						{
-							if(online)
-							{
-								if(d.Total>0) 
-								{
-									var imagenes=d.Items;
-									for(i=0;i<d.Total;i++)
-										cadena+="<br><img src='"+imagenes[i].Image+"' style='display:block;margin:auto;' alt='Imagen' />";
-										//Cargar imagen web
-								}
-							}	
-						}
-						$("#"+container).html(cadena);
-						
-						$("a").on("click", function(e) {
-							var url = $(this).attr('href');
-							var containsHttp = new RegExp('http\\b'); 
-							
-							if(containsHttp.test(url)) { 
-								e.preventDefault(); 
-								window.open(url, "_system", "location=yes"); // For iOS
-								//navigator.app.loadUrl(url, {openExternal: true}); //For Android
-							}
-						});	
-	
-						break;
-						
-				case "routes": 
-						var cadena="";
-						
-						$.each(data.Result.Items, function(index, d){   
-							var fecha=new Date(d.DatePublish);
-							
-							cadena+="<div class='buttons_routes' onclick='window.location.href=\"mapa.html?id="+d.ID+"\"'>";
-							
-							var imagen=d.Image; 
-							if(imagen!=null && imagen!="null" && imagen!="") 
-							{
-								//Sacar ruta local para la imagen	
-								var array_ruta_imagen=imagen.split("/public/images/");
-								var imagen_local="./resources/images/mapas/"+array_ruta_imagen[1];	
-							
-								cadena+="<div style='width:100%;height:100px;background:url("+imagen_local+") no-repeat center;background-size:cover;'></div>";
-							}
-								
-							cadena+="<h5>"+d.Title+"</h5>";
-							cadena+="</div>";
-						});
-						
-						cadena+="<div style='clear:both'> </div>";
-
-						$("#"+container).html(cadena);
-						break;
-						
-				case "route": 
-						var cadena="";
-						
-						if(haveCanvas==true)
-						{
-							var src_image="";
+						}	
+					}
+					$("#"+container).html(cadena);
 					
-							switch(id)
-							{
-								case "/1":src_image='./resources/images/mapas/mapa_01.jpg';  
-										  coord_image_ppal=[["top-left", "40.4797", "-4.4814"],["bottom-left", "40.4210", "-4.4814"], ["top-right","40.4797", "-4.3656"]];
-										  break;
-										  
-								case "/2": src_image='./resources/images/mapas/mapa_02.jpg';  
-										   coord_image_ppal=[["top-left", "40.4880", "-4.5537"],["bottom-left", "40.4294", "-4.5537"], ["top-right","40.4880", "-4.4379"]];
-										   break;
-										   
-								case "/3": src_image='./resources/images/mapas/mapa_03.jpg';
-										   coord_image_ppal=[["top-left", "40.5029", "-4.5515"],["bottom-left", "40.4443", "-4.5515"], ["top-right","40.5029", "-4.4357"]];
-										   break;
-										   
-								case "/4": src_image='./resources/images/mapas/mapa_04.jpg';  
-										   coord_image_ppal=[["top-left", "40.4736", "-4.4936"],["bottom-left", "40.4149", "-4.4936"], ["top-right","40.4736", "-4.3778"]];
-										   break;
-										   
-								case "/5": src_image='./resources/images/mapas/mapa_05.jpg';  
-										   coord_image_ppal=[["top-left", "40.4840", "-4.5260"],["bottom-left", "40.4253", "-4.5260"], ["top-right","40.4840", "-4.4102"]];
-										   break;
-										
-								case "/6": src_image='./resources/images/mapas/mapa_06.jpg';  
-										   coord_image_ppal=[["top-left", "40.5063", "-4.5182"],["bottom-left", "40.4476", "-4.5182"], ["top-right","40.5063", "-4.4024"]];
-										   break;
-										   
-								case "/7": src_image='./resources/images/mapas/mapa_07.jpg';  
-										   coord_image_ppal=[["top-left", "40.4977", "-4.4984"],["bottom-left", "40.4391", "-4.4984"], ["top-right","40.4977", "-4.3826"]];
-										   break;
-										   
-								default: src_image='';  
-										 break;
-							}
-							
-							var d=data.Result;
-							draw_canvas(container,src_image,'./resources/rutas/'+data.Result.DownloadGPX,id,canvas_number); 
-							
-							if(canvas_number==1)
-							{
-								$("#"+container).css("height",height);
-								$("#datos_geo").append("<div id='datos_geo_position'></div>");
-							}
-			
-							break;
-						}
+					$("a").on("click", function(e) {
+						var url = $(this).attr('href');
+						var containsHttp = new RegExp('http\\b'); 
 						
-						var d=data.Result;
+						if(containsHttp.test(url)) { 
+							e.preventDefault(); 
+							window.open(url, "_system", "location=yes"); // For iOS
+							//navigator.app.loadUrl(url, {openExternal: true}); //For Android
+						}
+					});	
 
-						cadena+="<h2>"+d.Title+"</h2>";
+					break;
+					
+			case "routes": 
+					var cadena="";
+					
+					$.each(data.Result.Items, function(index, d){   
+						var fecha=new Date(d.DatePublish);
+						
+						cadena+="<div class='buttons_routes' onclick='window.location.href=\"mapa.html?id="+d.ID+"\"'>";
 						
 						var imagen=d.Image; 
 						if(imagen!=null && imagen!="null" && imagen!="") 
@@ -492,61 +408,135 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 							var array_ruta_imagen=imagen.split("/public/images/");
 							var imagen_local="./resources/images/mapas/"+array_ruta_imagen[1];	
 						
-							cadena+="<img src='"+imagen_local+"' alt='Imagen de la ruta' />";
+							cadena+="<div style='width:100%;height:100px;background:url("+imagen_local+") no-repeat center;background-size:cover;'></div>";
 						}
-
-						cadena+=d.Page;
-						
-						cadena+="<div class='data_route'>";
-						cadena+="<p class='title_01'>DATOS DE LA RUTA</p>";
-						cadena+="<p><b>Altitud m&aacute;xima:</b> "+d.MaxAltitude+"</p>"+
-								"<p><b>Altitud m&iacute;nima:</b> "+d.MinAltitude+"</p>"+
-								"<p><b>Dificultad:</b>  "+d.Difficulty+"</p>"+
-								"<p><b>Distancia:</b>  "+d.Distance+"</p>"+
-								"<p><b>Ruta circular monumentos:</b> "+d.Monuments+"</p>"+
-								"<p><b>Panor&aacute;micas:</b>  "+d.Panoramics+"</p>";
-								"<p><b>Realizable en bici:</b>  "+d.CycleReady+"</p>";
-						cadena+="</div>";		
-
-						/*var imagenes=d.Items;
-						if(d.Total>0) 
-						{
-							for(i=0;i<d.Total;i++)
-								cadena+="<br><img src='"+imagenes[i].MinImage+"' alt='Imagen ruta' />";
-						}*/
-						
-						if(d.WikilocLink!="")
-						{
-							cadena+='<p><br><br><a class="vermas" onclick="window.open(\''+d.WikilocLink+'\', \'_system\', \'location=yes\');" href="#" >Ver ruta en Wikiloc</a></p>';
-						}						
-											
-						cadena+="<p><a class='vermas' href='canvas.html?id="+id+"'>Ver ruta con geolocalizaci&oacute;n</a></p>";				
-						
-						$("#"+container).append(cadena);
-						
-						$("a").on("click", function(e) {
-							var url = $(this).attr('href');
-							var containsHttp = new RegExp('http\\b'); 
 							
-							if(containsHttp.test(url)) { 
-								e.preventDefault(); 
-								window.open(url, "_system", "location=yes"); // For iOS
-								//navigator.app.loadUrl(url, {openExternal: true}); //For Android
-							}
-						});	
-						
-						break;
+						cadena+="<h5>"+d.Title+"</h5>";
+						cadena+="</div>";
+					});
+					
+					cadena+="<div style='clear:both'> </div>";
 
-			}
+					$("#"+container).html(cadena);
+					break;
+					
+			case "route": 
+					var cadena="";
+					
+					if(haveCanvas==true)
+					{
+						var src_image="";
+				
+						switch(id)
+						{
+							case "/1":src_image='./resources/images/mapas/mapa_01.jpg';  
+									  coord_image_ppal=[["top-left", "40.4797", "-4.4814"],["bottom-left", "40.4210", "-4.4814"], ["top-right","40.4797", "-4.3656"]];
+									  break;
+									  
+							case "/2": src_image='./resources/images/mapas/mapa_02.jpg';  
+									   coord_image_ppal=[["top-left", "40.4880", "-4.5537"],["bottom-left", "40.4294", "-4.5537"], ["top-right","40.4880", "-4.4379"]];
+									   break;
+									   
+							case "/3": src_image='./resources/images/mapas/mapa_03.jpg';
+									   coord_image_ppal=[["top-left", "40.5029", "-4.5515"],["bottom-left", "40.4443", "-4.5515"], ["top-right","40.5029", "-4.4357"]];
+									   break;
+									   
+							case "/4": src_image='./resources/images/mapas/mapa_04.jpg';  
+									   coord_image_ppal=[["top-left", "40.4736", "-4.4936"],["bottom-left", "40.4149", "-4.4936"], ["top-right","40.4736", "-4.3778"]];
+									   break;
+									   
+							case "/5": src_image='./resources/images/mapas/mapa_05.jpg';  
+									   coord_image_ppal=[["top-left", "40.4840", "-4.5260"],["bottom-left", "40.4253", "-4.5260"], ["top-right","40.4840", "-4.4102"]];
+									   break;
+									
+							case "/6": src_image='./resources/images/mapas/mapa_06.jpg';  
+									   coord_image_ppal=[["top-left", "40.5063", "-4.5182"],["bottom-left", "40.4476", "-4.5182"], ["top-right","40.5063", "-4.4024"]];
+									   break;
+									   
+							case "/7": src_image='./resources/images/mapas/mapa_07.jpg';  
+									   coord_image_ppal=[["top-left", "40.4977", "-4.4984"],["bottom-left", "40.4391", "-4.4984"], ["top-right","40.4977", "-4.3826"]];
+									   break;
+									   
+							default: src_image='';  
+									 break;
+						}
+						
+						var d=data.Result;
+						draw_canvas(container,src_image,'./resources/rutas/'+data.Result.DownloadGPX,id,canvas_number); 
+						
+						if(canvas_number==1)
+						{
+							$("#"+container).css("height",height);
+							$("#datos_geo").append("<div id='datos_geo_position'></div>");
+						}
 		
+						break;
+					}
+					
+					var d=data.Result;
+
+					cadena+="<h2>"+d.Title+"</h2>";
+					
+					var imagen=d.Image; 
+					if(imagen!=null && imagen!="null" && imagen!="") 
+					{
+						//Sacar ruta local para la imagen	
+						var array_ruta_imagen=imagen.split("/public/images/");
+						var imagen_local="./resources/images/mapas/"+array_ruta_imagen[1];	
+					
+						cadena+="<img src='"+imagen_local+"' alt='Imagen de la ruta' />";
+					}
+
+					cadena+=d.Page;
+					
+					cadena+="<div class='data_route'>";
+					cadena+="<p class='title_01'>DATOS DE LA RUTA</p>";
+					cadena+="<p><b>Altitud m&aacute;xima:</b> "+d.MaxAltitude+"</p>"+
+							"<p><b>Altitud m&iacute;nima:</b> "+d.MinAltitude+"</p>"+
+							"<p><b>Dificultad:</b>  "+d.Difficulty+"</p>"+
+							"<p><b>Distancia:</b>  "+d.Distance+"</p>"+
+							"<p><b>Ruta circular monumentos:</b> "+d.Monuments+"</p>"+
+							"<p><b>Panor&aacute;micas:</b>  "+d.Panoramics+"</p>";
+							"<p><b>Realizable en bici:</b>  "+d.CycleReady+"</p>";
+					cadena+="</div>";		
+
+					/*var imagenes=d.Items;
+					if(d.Total>0) 
+					{
+						for(i=0;i<d.Total;i++)
+							cadena+="<br><img src='"+imagenes[i].MinImage+"' alt='Imagen ruta' />";
+					}*/
+					
+					if(d.WikilocLink!="")
+					{
+						cadena+='<p><br><br><a class="vermas" onclick="window.open(\''+d.WikilocLink+'\', \'_system\', \'location=yes\');" href="#" >Ver ruta en Wikiloc</a></p>';
+					}						
+										
+					cadena+="<p><a class='vermas' href='canvas.html?id="+id+"'>Ver ruta con geolocalizaci&oacute;n</a></p>";				
+					
+					$("#"+container).append(cadena);
+					
+					$("a").on("click", function(e) {
+						var url = $(this).attr('href');
+						var containsHttp = new RegExp('http\\b'); 
+						
+						if(containsHttp.test(url)) { 
+							e.preventDefault(); 
+							window.open(url, "_system", "location=yes"); // For iOS
+							//navigator.app.loadUrl(url, {openExternal: true}); //For Android
+						}
+					});	
+					
+					break;
+
 		}
-		function f_error(jqXHR, textStatus, errorThrown){
-			//alert('Error: '+textStatus+" - "+errorThrown);	
-			$("#"+container).html("Necesita tener conexi&oacute;n a internet para acceder a esta secci&oacute;n.");
-		}
-		
+	
 	}
-	//, onFileSystemError);   
+	function f_error(jqXHR, textStatus, errorThrown){
+		//alert('Error: '+textStatus+" - "+errorThrown);	
+		$("#"+container).html("Necesita tener conexi&oacute;n a internet para acceder a esta secci&oacute;n.");
+	}
+
 }
 
 var canvasOffset;
