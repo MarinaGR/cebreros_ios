@@ -70,6 +70,10 @@ function check_internet(){
 	{			
 		online=true;
 	}
+	else
+	{			
+		online=false;
+	}
 
 }
 function onBackKeyDown()
@@ -145,6 +149,10 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 						{
 							var fecha=new Date(d.DatePublish);
 							var imagen=d.Image; 
+							
+							alert(imagen);
+							alert(fecha);
+							alert(online);
 							
 							if(online)
 							{
