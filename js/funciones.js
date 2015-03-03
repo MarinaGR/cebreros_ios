@@ -149,11 +149,7 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 						{
 							var fecha=new Date(d.DatePublish);
 							var imagen=d.Image; 
-							
-							alert(imagen);
-							alert(fecha);
-							alert(online);
-							
+
 							if(online)
 							{
 								if(imagen!=null && imagen!="null" && imagen!="" && (imagen.indexOf("jpg")>0 || imagen.indexOf("png")>0)) 
@@ -170,16 +166,22 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 								}
 								else
 								{
-									cadena+="<div style='width:100%;height:75px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
+									cadena+="<div style='width:100%;height:175px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
 								}
 							}
 							else
 							{
-								cadena+="<div style='width:100%;height:75px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
+								cadena+="<div style='width:100%;height:25px;background:#FFF url(./resources/images/general/sin_imagen.jpg) no-repeat center;background-size:cover;'></div>";
 							}
 								
 							if(isLocal!=true && isLocal!="true")
-								cadena+="<div class='fecha_01'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
+							{
+								var fecha_solo=fecha.split(" ");
+								var fecha_split=fecha_solo[0].split("-");
+								
+								cadena+="<div class='fecha_01'>"+fecha_split[2]+"/"+fecha_split[1]+"/"+fecha_split[0]+"</div>";
+								//cadena+="<div class='fecha_01'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
+							}
 							
 							//cadena+="<h3>"+decodeURIComponent(escape(d.Title))+"</h3>";
 							cadena+="<h3>"+d.Title+"</h3>";
@@ -206,7 +208,13 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 					cadena+="<h2>"+d.Title+"</h2>";
 					
 					if(isLocal!=true && isLocal!="true")
-						cadena+="<div class='fecha_02'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
+					{
+						var fecha_solo=fecha.split(" ");
+						var fecha_split=fecha_solo[0].split("-");
+								
+						cadena+="<div class='fecha_02'>"+fecha_split[2]+"/"+fecha_split[1]+"/"+fecha_split[0]+"</div>";
+						//cadena+="<div class='fecha_02'>"+fecha.getDate()+"/"+(fecha.getMonth()+1)+"/"+fecha.getFullYear()+"</div>";
+					}
 
 					if(online)
 					{
