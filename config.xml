@@ -27,9 +27,6 @@
     <!--<feature name="http://api.phonegap.com/1.0/file"/>-->
     <feature name="http://api.phonegap.com/1.0/geolocation"/>
     <feature name="http://api.phonegap.com/1.0/network"/>
-	<feature name="NetworkStatus">
-		<param name="ios-package" value="CDVConnection" />
-	</feature>
     <!--<feature name="http://api.phonegap.com/1.0/notification"/>-->
 	<!-- end to enable individual permissions use the following examples -->
 	
