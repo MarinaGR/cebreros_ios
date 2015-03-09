@@ -324,7 +324,7 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 						var url = $(this).attr('href');
 						var containsHttp = new RegExp('http\\b'); 
 						
-						if(containsHttp.test(url)) { 
+						if(containsHttp.test(url)) { alert(url);
 							e.preventDefault(); 
 							window.open(url, "_system", "location=yes"); // For iOS
 							//navigator.app.loadUrl(url, {openExternal: true}); //For Android
