@@ -252,7 +252,9 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 						
 						//cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";	
 
-						cadena+='<br><div class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" >Ver geolocalizaci&oacute;n en Google Maps</div>';	
+						cadena+='<br><div class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" >Ver geolocalizaci&oacute;n en Google Maps1</div>';
+
+						cadena+='<br><a class="vermas" href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" >Ver geolocalizaci&oacute;n en Google Maps2</a>';						
 
 
 					}
