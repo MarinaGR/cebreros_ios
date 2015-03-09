@@ -246,11 +246,14 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 														
 						destination=geo_lat+","+geo_lon;
 						
-						get_geo_route_map();
+						//get_geo_route_map();
 						
 						//cadena+="<br><iframe width='100%' style='height:450px;border:none;' id='geo_route_map'  src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyAD0H1_lbHwk3jMUzjVeORmISbIP34XtzU&origin="+destination+"&destination="+destination+"&avoid=tolls|highways&language=es' ></iframe>";
 						
-						cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";							
+						//cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";	
+
+						cadena+='<br><div class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" >Ver geolocalizaci&oacute;n en Google Maps</div>';	
+
 
 					}
 					
@@ -1067,9 +1070,7 @@ function error_geoloc(error)
 
 function get_geo_route_map()
 {
-	var cadena='<br><div class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" >Ver geolocalizaci&oacute;n en Google Maps</div>';		
-	
-	/*if (navigator.geolocation)
+	if (navigator.geolocation)
 	{
 		options = {enableHighAccuracy:true, timeout:15000, maximumAge:30000};
 		navigator.geolocation.getCurrentPosition(return_user_geoloc,error_user_geoloc,options);
@@ -1079,7 +1080,7 @@ function get_geo_route_map()
 		var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
 	
 		$("#datos_geo_position").html("<p><br>Tu dispositivo no permite la geolocalizaci&oacute;n din&aacute;mica.</p>"+cadena);	
-	}*/
+	}
 }
 function return_user_geoloc(position)
 {
