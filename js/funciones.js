@@ -252,10 +252,17 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 						
 						//cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";	
 
-						cadena+='<br><div class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" >Ver geolocalizaci&oacute;n en Google Maps1</div>';
+						cadena+='<br><a class="vermas" href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" >Ver geolocalizaci&oacute;n en Google Maps 1</a>';	
 
-						cadena+='<br><a class="vermas" href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" >Ver geolocalizaci&oacute;n en Google Maps2</a>';						
-
+						cadena+='<br><a href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 2</a>';
+						
+						cadena+='<br><a href="#" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 3</a>';
+						
+						cadena+='<br><a href="#" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_blank\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 4</a>';
+						
+						cadena+='<br><a href="#" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_self\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 5</a>';
+						
+						
 
 					}
 					
