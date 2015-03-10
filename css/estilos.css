@@ -23,6 +23,10 @@ iframe {
 	max-width: 100% !important;
 }
 
+#datos_geo_position img {
+	max-width: none; 
+}
+
 .contenedor {
 	width: 100%;
 	max-width: 768px;

@@ -70,10 +70,7 @@ function check_internet(){
 	{			
 		online=true;
 	}
-	else
-	{			
-		online=false;
-	}
+
 
 }
 function onBackKeyDown()
@@ -246,23 +243,13 @@ function ajax_recover_data(type, id, container, isLocal, haveCanvas, canvas_numb
 														
 						destination=geo_lat+","+geo_lon;
 						
-						//get_geo_route_map();
+						get_geo_route_map();
 						
 						//cadena+="<br><iframe width='100%' style='height:450px;border:none;' id='geo_route_map'  src='https://www.google.com/maps/embed/v1/directions?key=AIzaSyAD0H1_lbHwk3jMUzjVeORmISbIP34XtzU&origin="+destination+"&destination="+destination+"&avoid=tolls|highways&language=es' ></iframe>";
 						
-						//cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";	
+						cadena+="<div id='datos_geo_position'>Esperando geolocalizaci&oacute;n...</div>";	
 
-						cadena+='<br><a class="vermas" href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" >Ver geolocalizaci&oacute;n en Google Maps 1</a>';	
-
-						cadena+='<br><a href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 2</a>';
-						
-						cadena+='<br><a href="#" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 3</a>';
-						
-						cadena+='<br><a href="#" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_blank\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 4</a>';
-						
-						cadena+='<br><a href="#" onclick="window.open(\'http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_self\', \'location=yes\');" class="vermas" >Ver geolocalizaci&oacute;n en Google Maps 5</a>';
-						
-						
+						//cadena+='<br><a class="vermas" href="http://www.maps.google.com/maps?z='+my_zoom+'&q=loc:'+destination+'&avoid=tolls|highways&language=es" >Ver geolocalizaci&oacute;n en Google Maps</a>';	
 
 					}
 					
@@ -1086,9 +1073,31 @@ function get_geo_route_map()
 	}
 	else
 	{	
-		var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
+		//var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
 	
-		$("#datos_geo_position").html("<p><br>Tu dispositivo no permite la geolocalizaci&oacute;n din&aacute;mica.</p>"+cadena);	
+		//$("#datos_geo_position").html("<p><br>Tu dispositivo no permite la geolocalizaci&oacute;n din&aacute;mica.</p>"+cadena);
+		
+		$('#datos_geo_position').css("width","100%");
+		$('#datos_geo_position').css("height","400px");
+	
+		$("#datos_geo_position").gmap3({
+		 marker:{
+		  address: destination
+		},
+         map:{
+		  address: destination,
+		  options:{
+			zoom:15,
+			mapTypeControl: true,
+			mapTypeControlOptions: {
+			  style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+			},
+			navigationControl: true,
+			scrollwheel: true,
+			streetViewControl: true
+		  }
+		}
+    });
 	}
 }
 function return_user_geoloc(position)
@@ -1098,16 +1107,67 @@ function return_user_geoloc(position)
 	
 	var latlon_user=lat+","+lon;	
 	
-	var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?saddr='+latlon_user+'&daddr='+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
+	$('#datos_geo_position').css("width","100%");
+	$('#datos_geo_position').css("height","400px");
 	
-	$("#datos_geo_position").html(cadena);
+	$('#datos_geo_position').gmap3({	
+		getroute:{
+			options:{
+				origin:latlon_user,
+				destination:destination,
+				travelMode: google.maps.DirectionsTravelMode.DRIVING
+			},
+			callback: function(results){
+			  if (!results) return;
+			  $(this).gmap3({
+				map:{
+				  options:{
+					zoom: 15,  
+					center: destination
+				  }
+				},
+				directionsrenderer:{
+				  options:{
+					directions:results
+				  } 
+				}
+			  });
+			}
+		}	
+    });
+		
+	//var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?saddr='+latlon_user+'&daddr='+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
+	
+	//$("#datos_geo_position").html(cadena);
 
 }
 function error_user_geoloc(position)
 {
-	var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
+	$('#datos_geo_position').css("width","100%");
+	$('#datos_geo_position').css("height","400px");
 	
-	$("#datos_geo_position").html("<p><br>Error en la geolocalizaci&oacute;n</p>"+cadena);
+	$("#datos_geo_position").gmap3({
+		 marker:{
+		  address: destination
+		},
+         map:{
+		  address: destination,
+		  options:{
+			zoom:15,
+			mapTypeControl: true,
+			mapTypeControlOptions: {
+			  style: google.maps.MapTypeControlStyle.DROPDOWN_MENU
+			},
+			navigationControl: true,
+			scrollwheel: true,
+			streetViewControl: true
+		  }
+		}
+    });
+	
+	//var cadena='<br><a class="vermas" onclick="window.open(\'http://www.maps.google.com/maps?q=loc:'+destination+'&avoid=tolls|highways&language=es\', \'_system\', \'location=yes\');" href="#" >Ver geolocalizaci&oacute;n en Google Maps</a>';		
+	
+	//$("#datos_geo_position").html("<p><br>Error en la geolocalizaci&oacute;n</p>"+cadena);
 }
 
 
